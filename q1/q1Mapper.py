@@ -28,26 +28,3 @@ for line in sys.stdin:
 
 
 
-
-''' 
-import sys
-import json
- 
-# input comes from STDIN (standard input)
-for line in sys.stdin:
-
-    reviewCount = "-1"
-    businessType = "-1" #default sorted as first
-    UScityName = "-1" #default sorted as first
-    businessName = "-1" #default sorted as first
- 
-    data = json.loads(line.strip())
-    	  	 
-    if data['city'] == 'Pittsburgh' or data['city'] == 'Charlotte' or data['city'] == 'Urbana-Champaign' or data['city'] == 'Phoenix' or data['city'] == 'Las Vegas' or data['city'] == 'Madison': # business data
-        UScityName = data['city'].encode("utf-8")
-        reviewCount = data['review_count']
-        businessType = data['type'].encode("utf-8")
-        businessName = data['name'].encode("utf-8")
-        
-    print '%s^%s^%s^%s' % (UScityName,businessType,businessName,reviewCount)
-'''
