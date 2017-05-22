@@ -1,0 +1,3225 @@
+	category	city	average_stars
+1	ATV Rentals/Tours	Phoenix	4.5
+0	ATV Rentals/Tours	Las Vegas	4.33333333333
+4	Accessories	Las Vegas	3.92926829268
+7	Accessories	Pittsburgh	3.89130434783
+3	Accessories	Charlotte	3.8431372549
+6	Accessories	Phoenix	3.77272727273
+2	Accessories	Champaign	3.75
+5	Accessories	Madison	3.65
+8	Accountants	Charlotte	5.0
+10	Accountants	Madison	5.0
+12	Accountants	Pittsburgh	5.0
+9	Accountants	Las Vegas	4.44117647059
+11	Accountants	Phoenix	4.28125
+13	Active Life	Champaign	4.625
+14	Active Life	Charlotte	4.14705882353
+18	Active Life	Pittsburgh	4.144
+17	Active Life	Phoenix	4.13979848866
+15	Active Life	Las Vegas	4.11191860465
+16	Active Life	Madison	4.07317073171
+22	Acupuncture	Phoenix	4.6724137931
+23	Acupuncture	Pittsburgh	4.6
+19	Acupuncture	Charlotte	4.5
+20	Acupuncture	Las Vegas	4.38461538462
+21	Acupuncture	Madison	4.375
+32	Adult	Charlotte	4.75
+33	Adult	Las Vegas	4.4
+35	Adult	Phoenix	3.7
+34	Adult	Madison	3.5
+27	Adult Education	Pittsburgh	5.0
+25	Adult Education	Madison	4.5
+26	Adult Education	Phoenix	3.83333333333
+24	Adult Education	Las Vegas	3.66666666667
+31	Adult Entertainment	Pittsburgh	3.66666666667
+29	Adult Entertainment	Las Vegas	3.55223880597
+30	Adult Entertainment	Phoenix	3.47368421053
+28	Adult Entertainment	Charlotte	3.0
+36	Advertising	Charlotte	4.5
+37	Advertising	Las Vegas	4.15
+38	Advertising	Phoenix	3.57142857143
+39	Advertising	Pittsburgh	3.5
+42	Afghan	Phoenix	3.875
+40	Afghan	Las Vegas	3.75
+41	Afghan	Madison	3.25
+47	African	Pittsburgh	4.5
+43	African	Charlotte	3.9
+46	African	Phoenix	3.9
+44	African	Las Vegas	3.75
+45	African	Madison	3.0
+49	Airlines	Las Vegas	2.67647058824
+50	Airlines	Phoenix	2.36666666667
+48	Airlines	Charlotte	2.1
+52	Airport Lounges	Las Vegas	3.66666666667
+51	Airport Lounges	Charlotte	3.25
+53	Airport Lounges	Phoenix	2.66666666667
+58	Airport Shuttles	Pittsburgh	3.66666666667
+54	Airport Shuttles	Charlotte	3.5
+56	Airport Shuttles	Madison	3.5
+57	Airport Shuttles	Phoenix	3.5
+55	Airport Shuttles	Las Vegas	2.66
+61	Airports	Madison	4.0
+59	Airports	Charlotte	3.875
+60	Airports	Las Vegas	3.75
+62	Airports	Phoenix	3.25
+63	Allergists	Charlotte	5.0
+64	Allergists	Las Vegas	4.08333333333
+65	Allergists	Phoenix	3.75
+68	Amateur Sports Teams	Madison	4.75
+66	Amateur Sports Teams	Charlotte	4.5
+67	Amateur Sports Teams	Las Vegas	4.15384615385
+69	Amateur Sports Teams	Phoenix	3.3
+74	American (New)	Phoenix	3.66105769231
+73	American (New)	Madison	3.65277777778
+72	American (New)	Las Vegas	3.56803797468
+75	American (New)	Pittsburgh	3.51689189189
+71	American (New)	Charlotte	3.46629213483
+70	American (New)	Champaign	3.38888888889
+81	American (Traditional)	Pittsburgh	3.44025157233
+79	American (Traditional)	Madison	3.37068965517
+77	American (Traditional)	Charlotte	3.33260869565
+78	American (Traditional)	Las Vegas	3.3006263048
+80	American (Traditional)	Phoenix	3.26688102894
+76	American (Traditional)	Champaign	3.25
+83	Amusement Parks	Las Vegas	3.9
+82	Amusement Parks	Charlotte	3.71428571429
+84	Amusement Parks	Phoenix	3.5
+86	Anesthesiologists	Phoenix	3.0
+85	Anesthesiologists	Las Vegas	2.5
+91	Animal Shelters	Pittsburgh	4.25
+88	Animal Shelters	Las Vegas	4.0
+90	Animal Shelters	Phoenix	3.91176470588
+87	Animal Shelters	Charlotte	3.5
+89	Animal Shelters	Madison	3.5
+97	Antiques	Pittsburgh	4.25
+96	Antiques	Phoenix	4.02083333333
+92	Antiques	Champaign	4.0
+95	Antiques	Madison	3.85
+94	Antiques	Las Vegas	3.80769230769
+93	Antiques	Charlotte	3.54166666667
+99	Apartments	Charlotte	2.82142857143
+103	Apartments	Pittsburgh	2.71875
+102	Apartments	Phoenix	2.58579881657
+100	Apartments	Las Vegas	2.55989583333
+101	Apartments	Madison	2.5
+98	Apartments	Champaign	2.28571428571
+109	Appliances	Champaign	5.0
+110	Appliances	Charlotte	3.28571428571
+112	Appliances	Madison	3.28571428571
+113	Appliances	Phoenix	3.265625
+114	Appliances	Pittsburgh	3.125
+111	Appliances	Las Vegas	2.84375
+106	Appliances & Repair	Madison	3.5
+107	Appliances & Repair	Phoenix	3.5
+108	Appliances & Repair	Pittsburgh	3.5
+105	Appliances & Repair	Las Vegas	3.3
+104	Appliances & Repair	Charlotte	2.8
+115	Appraisal Services	Las Vegas	5.0
+116	Appraisal Services	Phoenix	2.0
+119	Aquarium Services	Phoenix	4.0
+118	Aquarium Services	Las Vegas	3.83333333333
+117	Aquarium Services	Charlotte	3.0
+122	Aquariums	Pittsburgh	4.0
+120	Aquariums	Las Vegas	3.9
+121	Aquariums	Phoenix	3.0
+123	Arabian	Champaign	4.5
+124	Arabian	Charlotte	3.0
+129	Arcades	Pittsburgh	4.2
+126	Arcades	Las Vegas	3.95238095238
+125	Arcades	Charlotte	3.5
+128	Arcades	Phoenix	3.2
+127	Arcades	Madison	2.75
+131	Archery	Las Vegas	4.66666666667
+130	Archery	Charlotte	4.0
+132	Archery	Phoenix	4.0
+135	Argentine	Pittsburgh	4.5
+134	Argentine	Las Vegas	4.0
+133	Argentine	Charlotte	3.5
+136	Armenian	Phoenix	3.5
+139	Art Classes	Madison	4.5
+140	Art Classes	Phoenix	4.5
+141	Art Classes	Pittsburgh	4.33333333333
+138	Art Classes	Las Vegas	4.0
+137	Art Classes	Charlotte	3.75
+145	Art Galleries	Phoenix	4.47222222222
+142	Art Galleries	Charlotte	4.2037037037
+144	Art Galleries	Madison	4.16666666667
+143	Art Galleries	Las Vegas	4.14166666667
+146	Art Galleries	Pittsburgh	4.10526315789
+147	Art Restoration	Phoenix	5.0
+150	Art Schools	Madison	4.5
+148	Art Schools	Charlotte	4.4
+152	Art Schools	Pittsburgh	4.375
+149	Art Schools	Las Vegas	4.0
+151	Art Schools	Phoenix	3.6
+153	Art Supplies	Champaign	5.0
+156	Art Supplies	Madison	4.42857142857
+154	Art Supplies	Charlotte	4.33333333333
+157	Art Supplies	Phoenix	4.25
+158	Art Supplies	Pittsburgh	3.9
+155	Art Supplies	Las Vegas	3.83333333333
+159	Art Tours	Las Vegas	5.0
+163	Arts & Crafts	Madison	4.06896551724
+165	Arts & Crafts	Pittsburgh	4.06818181818
+162	Arts & Crafts	Las Vegas	4.02293577982
+160	Arts & Crafts	Champaign	4.0
+164	Arts & Crafts	Phoenix	3.93506493506
+161	Arts & Crafts	Charlotte	3.82954545455
+171	Arts & Entertainment	Pittsburgh	4.03515625
+169	Arts & Entertainment	Madison	3.97794117647
+170	Arts & Entertainment	Phoenix	3.96943231441
+167	Arts & Entertainment	Charlotte	3.92727272727
+168	Arts & Entertainment	Las Vegas	3.75031766201
+166	Arts & Entertainment	Champaign	3.75
+174	Asian Fusion	Las Vegas	3.72440944882
+172	Asian Fusion	Champaign	3.55
+177	Asian Fusion	Pittsburgh	3.52380952381
+176	Asian Fusion	Phoenix	3.51219512195
+175	Asian Fusion	Madison	3.42857142857
+173	Asian Fusion	Charlotte	3.42708333333
+178	Assisted Living Facilities	Phoenix	4.0
+179	Auction Houses	Las Vegas	3.375
+180	Auction Houses	Phoenix	2.16666666667
+181	Audiologist	Las Vegas	4.75
+182	Audiologist	Phoenix	3.25
+183	Auto Customization	Charlotte	5.0
+185	Auto Customization	Madison	4.75
+184	Auto Customization	Las Vegas	4.5
+186	Auto Customization	Phoenix	4.35294117647
+190	Auto Detailing	Madison	5.0
+187	Auto Detailing	Champaign	4.5
+189	Auto Detailing	Las Vegas	4.0
+188	Auto Detailing	Charlotte	3.77777777778
+192	Auto Detailing	Pittsburgh	3.77777777778
+191	Auto Detailing	Phoenix	3.41176470588
+193	Auto Glass Services	Champaign	5.0
+194	Auto Glass Services	Charlotte	4.55
+198	Auto Glass Services	Pittsburgh	4.5
+195	Auto Glass Services	Las Vegas	4.29347826087
+196	Auto Glass Services	Madison	4.0
+197	Auto Glass Services	Phoenix	3.87755102041
+199	Auto Insurance	Las Vegas	4.16666666667
+200	Auto Insurance	Phoenix	4.0
+202	Auto Loan Providers	Las Vegas	3.45
+201	Auto Loan Providers	Charlotte	2.75
+203	Auto Loan Providers	Phoenix	2.125
+204	Auto Parts & Supplies	Champaign	5.0
+206	Auto Parts & Supplies	Las Vegas	4.05508474576
+208	Auto Parts & Supplies	Phoenix	3.99438202247
+205	Auto Parts & Supplies	Charlotte	3.85
+209	Auto Parts & Supplies	Pittsburgh	3.8125
+207	Auto Parts & Supplies	Madison	3.5
+214	Auto Repair	Phoenix	4.15604026846
+212	Auto Repair	Las Vegas	3.92042440318
+213	Auto Repair	Madison	3.72950819672
+211	Auto Repair	Charlotte	3.70792079208
+210	Auto Repair	Champaign	3.625
+215	Auto Repair	Pittsburgh	3.61904761905
+220	Automotive	Phoenix	3.78665785997
+218	Automotive	Las Vegas	3.75538461538
+217	Automotive	Charlotte	3.63779527559
+216	Automotive	Champaign	3.56666666667
+221	Automotive	Pittsburgh	3.53719008264
+219	Automotive	Madison	3.47767857143
+226	Baby Gear & Furniture	Pittsburgh	5.0
+222	Baby Gear & Furniture	Charlotte	3.8
+224	Baby Gear & Furniture	Madison	3.75
+223	Baby Gear & Furniture	Las Vegas	3.5
+225	Baby Gear & Furniture	Phoenix	3.375
+231	Bagels	Phoenix	3.57407407407
+230	Bagels	Madison	3.5625
+228	Bagels	Charlotte	3.5
+229	Bagels	Las Vegas	3.296875
+232	Bagels	Pittsburgh	3.25
+227	Bagels	Champaign	3.0
+234	Bail Bondsmen	Phoenix	4.5
+233	Bail Bondsmen	Las Vegas	4.25
+235	Bakeries	Champaign	4.0
+240	Bakeries	Pittsburgh	3.97101449275
+239	Bakeries	Phoenix	3.9496124031
+238	Bakeries	Madison	3.93023255814
+237	Bakeries	Las Vegas	3.87371134021
+236	Bakeries	Charlotte	3.8125
+241	Bangladeshi	Pittsburgh	4.5
+242	Bankruptcy Law	Las Vegas	4.29166666667
+243	Bankruptcy Law	Phoenix	4.1
+246	Banks & Credit Unions	Madison	3.42307692308
+248	Banks & Credit Unions	Pittsburgh	3.07692307692
+247	Banks & Credit Unions	Phoenix	2.93229166667
+245	Banks & Credit Unions	Las Vegas	2.87888198758
+244	Banks & Credit Unions	Charlotte	2.79310344828
+249	Barbeque	Champaign	4.0
+254	Barbeque	Pittsburgh	3.82142857143
+252	Barbeque	Madison	3.61111111111
+250	Barbeque	Charlotte	3.54651162791
+253	Barbeque	Phoenix	3.46153846154
+251	Barbeque	Las Vegas	3.42045454545
+255	Barbers	Champaign	4.66666666667
+259	Barbers	Phoenix	4.29381443299
+260	Barbers	Pittsburgh	4.25806451613
+258	Barbers	Madison	4.17647058824
+257	Barbers	Las Vegas	4.11428571429
+256	Barbers	Charlotte	4.09722222222
+264	Barre Classes	Phoenix	4.78571428571
+262	Barre Classes	Las Vegas	4.66666666667
+261	Barre Classes	Charlotte	4.61111111111
+263	Barre Classes	Madison	4.0
+265	Barre Classes	Pittsburgh	3.83333333333
+268	Bars	Las Vegas	3.59304932735
+270	Bars	Phoenix	3.54268292683
+271	Bars	Pittsburgh	3.50307692308
+269	Bars	Madison	3.4708994709
+267	Bars	Charlotte	3.42900302115
+266	Bars	Champaign	3.28260869565
+272	Bartenders	Las Vegas	5.0
+273	Bartenders	Phoenix	4.5
+275	Bartending Schools	Las Vegas	4.5
+274	Bartending Schools	Charlotte	3.5
+276	Basketball Courts	Madison	3.5
+277	Basque	Charlotte	3.5
+278	Basque	Pittsburgh	3.25
+281	Battery Stores	Madison	4.5
+282	Battery Stores	Phoenix	4.5
+280	Battery Stores	Las Vegas	3.91666666667
+279	Battery Stores	Charlotte	3.5
+283	Battery Stores	Pittsburgh	2.5
+284	Batting Cages	Las Vegas	4.33333333333
+285	Beaches	Charlotte	4.5
+286	Beaches	Madison	4.5
+287	Beaches	Pittsburgh	4.5
+292	Beauty & Spas	Phoenix	4.03882352941
+290	Beauty & Spas	Las Vegas	4.03775811209
+288	Beauty & Spas	Champaign	4.02941176471
+293	Beauty & Spas	Pittsburgh	3.94634146341
+289	Beauty & Spas	Charlotte	3.88372093023
+291	Beauty & Spas	Madison	3.79370629371
+296	Bed & Breakfast	Phoenix	4.75
+295	Bed & Breakfast	Madison	4.6
+294	Bed & Breakfast	Charlotte	4.25
+297	Bed & Breakfast	Pittsburgh	3.85714285714
+300	Beer Bar	Phoenix	4.25
+298	Beer Bar	Charlotte	4.0
+299	Beer Bar	Madison	4.0
+302	Beer Gardens	Madison	4.5
+301	Beer Gardens	Charlotte	4.0
+303	Beer Gardens	Phoenix	4.0
+307	Beer, Wine & Spirits	Madison	4.10416666667
+308	Beer, Wine & Spirits	Phoenix	4.04255319149
+304	Beer, Wine & Spirits	Champaign	4.0
+305	Beer, Wine & Spirits	Charlotte	3.99122807018
+309	Beer, Wine & Spirits	Pittsburgh	3.82558139535
+306	Beer, Wine & Spirits	Las Vegas	3.74
+310	Belgian	Madison	3.83333333333
+312	Belgian	Pittsburgh	3.75
+311	Belgian	Phoenix	3.5
+313	Bespoke Clothing	Las Vegas	4.66666666667
+315	Bespoke Clothing	Phoenix	4.66666666667
+314	Bespoke Clothing	Madison	4.0
+316	Beverage Store	Charlotte	3.5
+317	Bike Rentals	Charlotte	4.5
+320	Bike Rentals	Phoenix	4.22222222222
+318	Bike Rentals	Las Vegas	4.0
+319	Bike Rentals	Madison	3.95454545455
+321	Bike Rentals	Pittsburgh	3.875
+323	Bike Repair/Maintenance	Las Vegas	4.75
+326	Bike Repair/Maintenance	Pittsburgh	4.75
+324	Bike Repair/Maintenance	Madison	4.5
+322	Bike Repair/Maintenance	Charlotte	4.41666666667
+325	Bike Repair/Maintenance	Phoenix	4.4
+327	Bike Sharing	Charlotte	2.5
+332	Bikes	Pittsburgh	4.625
+331	Bikes	Phoenix	4.24074074074
+329	Bikes	Las Vegas	4.2
+328	Bikes	Charlotte	4.16666666667
+330	Bikes	Madison	4.075
+334	Bingo Halls	Phoenix	5.0
+333	Bingo Halls	Las Vegas	3.375
+338	Blood & Plasma Donation Centers	Phoenix	4.0
+335	Blood & Plasma Donation Centers	Charlotte	3.75
+337	Blood & Plasma Donation Centers	Madison	3.5
+336	Blood & Plasma Donation Centers	Las Vegas	3.375
+339	Blow Dry/Out Services	Charlotte	4.625
+340	Blow Dry/Out Services	Las Vegas	4.55
+341	Blow Dry/Out Services	Madison	4.5
+342	Blow Dry/Out Services	Phoenix	4.45833333333
+344	Boat Charters	Phoenix	5.0
+345	Boat Charters	Pittsburgh	4.0
+343	Boat Charters	Madison	3.0
+347	Boat Dealers	Phoenix	3.75
+346	Boat Dealers	Las Vegas	3.25
+348	Boat Repair	Las Vegas	3.25
+349	Boat Repair	Madison	3.0
+350	Boat Repair	Phoenix	2.5
+353	Boating	Phoenix	4.6
+352	Boating	Madison	4.5
+351	Boating	Las Vegas	3.5
+354	Body Shops	Champaign	4.75
+358	Body Shops	Phoenix	4.16666666667
+359	Body Shops	Pittsburgh	4.125
+356	Body Shops	Las Vegas	3.95890410959
+357	Body Shops	Madison	3.92857142857
+355	Body Shops	Charlotte	3.70833333333
+365	Books, Mags, Music & Video	Pittsburgh	4.30769230769
+363	Books, Mags, Music & Video	Madison	3.96774193548
+364	Books, Mags, Music & Video	Phoenix	3.92142857143
+360	Books, Mags, Music & Video	Champaign	3.85
+361	Books, Mags, Music & Video	Charlotte	3.79166666667
+362	Books, Mags, Music & Video	Las Vegas	3.78921568627
+371	Bookstores	Pittsburgh	4.52941176471
+370	Bookstores	Phoenix	3.97916666667
+369	Bookstores	Madison	3.93333333333
+366	Bookstores	Champaign	3.75
+368	Bookstores	Las Vegas	3.66216216216
+367	Bookstores	Charlotte	3.65384615385
+374	Boot Camps	Madison	5.0
+372	Boot Camps	Charlotte	4.875
+376	Boot Camps	Pittsburgh	4.83333333333
+373	Boot Camps	Las Vegas	4.75
+375	Boot Camps	Phoenix	4.57692307692
+380	Botanical Gardens	Phoenix	4.75
+379	Botanical Gardens	Madison	4.5
+381	Botanical Gardens	Pittsburgh	4.5
+377	Botanical Gardens	Charlotte	4.0
+378	Botanical Gardens	Las Vegas	4.0
+383	Bowling	Las Vegas	3.84615384615
+382	Bowling	Charlotte	3.5
+386	Bowling	Pittsburgh	3.5
+385	Bowling	Phoenix	3.38888888889
+384	Bowling	Madison	3.25
+391	Boxing	Pittsburgh	5.0
+388	Boxing	Las Vegas	4.82142857143
+389	Boxing	Madison	4.5
+390	Boxing	Phoenix	4.4
+387	Boxing	Charlotte	4.33333333333
+393	Brasseries	Las Vegas	4.33333333333
+392	Brasseries	Charlotte	4.25
+394	Brasseries	Madison	4.0
+395	Brasseries	Pittsburgh	3.5
+397	Brazilian	Las Vegas	3.85714285714
+400	Brazilian	Pittsburgh	3.5
+398	Brazilian	Madison	3.25
+396	Brazilian	Charlotte	3.0
+399	Brazilian	Phoenix	2.5
+406	Breakfast & Brunch	Pittsburgh	3.71014492754
+405	Breakfast & Brunch	Phoenix	3.57989690722
+404	Breakfast & Brunch	Madison	3.52941176471
+403	Breakfast & Brunch	Las Vegas	3.51477832512
+402	Breakfast & Brunch	Charlotte	3.50917431193
+401	Breakfast & Brunch	Champaign	3.25
+407	Breweries	Champaign	4.5
+412	Breweries	Pittsburgh	4.3
+408	Breweries	Charlotte	4.21052631579
+409	Breweries	Las Vegas	3.84210526316
+411	Breweries	Phoenix	3.79166666667
+410	Breweries	Madison	3.64285714286
+414	Brewing Supplies	Las Vegas	5.0
+413	Brewing Supplies	Champaign	4.5
+415	Brewing Supplies	Madison	3.75
+417	Bridal	Las Vegas	4.1724137931
+418	Bridal	Madison	4.125
+419	Bridal	Phoenix	4.11764705882
+416	Bridal	Charlotte	3.88888888889
+420	Bridal	Pittsburgh	3.85714285714
+425	British	Pittsburgh	4.5
+422	British	Las Vegas	3.85714285714
+421	British	Charlotte	3.5
+423	British	Madison	3.5
+424	British	Phoenix	3.5
+430	Bubble Tea	Phoenix	4.25
+429	Bubble Tea	Madison	4.125
+428	Bubble Tea	Las Vegas	3.97619047619
+426	Bubble Tea	Champaign	3.83333333333
+427	Bubble Tea	Charlotte	3.5
+431	Bubble Tea	Pittsburgh	3.5
+432	Buddhist Temples	Charlotte	4.5
+434	Buddhist Temples	Phoenix	4.0
+433	Buddhist Temples	Las Vegas	3.5
+436	Buffets	Charlotte	3.13157894737
+440	Buffets	Pittsburgh	2.95833333333
+439	Buffets	Phoenix	2.95569620253
+437	Buffets	Las Vegas	2.86
+438	Buffets	Madison	2.64285714286
+435	Buffets	Champaign	1.5
+441	Building Supplies	Champaign	4.75
+446	Building Supplies	Pittsburgh	4.5
+444	Building Supplies	Madison	4.33333333333
+443	Building Supplies	Las Vegas	4.0
+445	Building Supplies	Phoenix	3.55172413793
+442	Building Supplies	Charlotte	3.5
+450	Burgers	Madison	3.31914893617
+452	Burgers	Pittsburgh	3.12025316456
+451	Burgers	Phoenix	3.03187250996
+448	Burgers	Charlotte	3.00892857143
+449	Burgers	Las Vegas	2.9716713881
+447	Burgers	Champaign	2.76666666667
+453	Burmese	Pittsburgh	4.0
+454	Bus Tours	Las Vegas	5.0
+455	Buses	Las Vegas	2.83333333333
+456	Business Consulting	Las Vegas	3.25
+457	Business Law	Charlotte	5.0
+459	Business Law	Phoenix	4.75
+458	Business Law	Las Vegas	4.66666666667
+462	Butcher	Madison	4.75
+464	Butcher	Pittsburgh	4.75
+463	Butcher	Phoenix	4.375
+461	Butcher	Las Vegas	4.125
+460	Butcher	Charlotte	3.8
+467	CPR Classes	Phoenix	5.0
+465	CPR Classes	Las Vegas	4.75
+466	CPR Classes	Madison	3.5
+468	CSA	Charlotte	5.0
+470	CSA	Phoenix	4.83333333333
+469	CSA	Las Vegas	3.5
+472	Cabaret	Las Vegas	3.75
+473	Cabaret	Phoenix	3.5
+471	Cabaret	Charlotte	2.5
+477	Cabinetry	Phoenix	4.14285714286
+475	Cabinetry	Las Vegas	4.11111111111
+474	Cabinetry	Charlotte	3.5
+476	Cabinetry	Madison	2.5
+483	Cafes	Pittsburgh	3.97272727273
+481	Cafes	Madison	3.86842105263
+482	Cafes	Phoenix	3.84666666667
+479	Cafes	Charlotte	3.7625
+480	Cafes	Las Vegas	3.61923076923
+478	Cafes	Champaign	3.5
+484	Cafeteria	Phoenix	4.0
+485	Cafeteria	Pittsburgh	4.0
+491	Cajun/Creole	Pittsburgh	4.0
+488	Cajun/Creole	Las Vegas	3.875
+490	Cajun/Creole	Phoenix	3.65
+487	Cajun/Creole	Charlotte	3.57692307692
+489	Cajun/Creole	Madison	3.5
+486	Cajun/Creole	Champaign	3.0
+492	Cambodian	Phoenix	4.5
+493	Cambodian	Pittsburgh	4.0
+495	Campgrounds	Phoenix	3.5
+494	Campgrounds	Las Vegas	2.83333333333
+499	Candy Stores	Madison	4.75
+501	Candy Stores	Pittsburgh	4.18181818182
+500	Candy Stores	Phoenix	4.07142857143
+498	Candy Stores	Las Vegas	3.85483870968
+497	Candy Stores	Charlotte	3.66666666667
+496	Candy Stores	Champaign	3.5
+503	Cannabis Clinics	Phoenix	4.18181818182
+502	Cannabis Clinics	Las Vegas	4.16666666667
+506	Cantonese	Phoenix	4.0
+504	Cantonese	Las Vegas	3.46153846154
+505	Cantonese	Madison	3.33333333333
+512	Car Dealers	Pittsburgh	3.72727272727
+511	Car Dealers	Phoenix	3.53773584906
+509	Car Dealers	Las Vegas	3.4623655914
+510	Car Dealers	Madison	3.425
+508	Car Dealers	Charlotte	3.38095238095
+507	Car Dealers	Champaign	2.5
+515	Car Rental	Las Vegas	2.9247311828
+517	Car Rental	Phoenix	2.77380952381
+516	Car Rental	Madison	2.75
+518	Car Rental	Pittsburgh	2.6875
+514	Car Rental	Charlotte	2.61363636364
+513	Car Rental	Champaign	2.5
+519	Car Share Services	Las Vegas	4.0
+521	Car Share Services	Pittsburgh	3.75
+520	Car Share Services	Phoenix	3.5
+522	Car Stereo Installation	Charlotte	4.5
+523	Car Stereo Installation	Las Vegas	4.21428571429
+525	Car Stereo Installation	Phoenix	3.94444444444
+524	Car Stereo Installation	Madison	3.5
+526	Car Stereo Installation	Pittsburgh	3.0
+531	Car Wash	Pittsburgh	3.44444444444
+527	Car Wash	Charlotte	3.41304347826
+528	Car Wash	Las Vegas	3.38372093023
+529	Car Wash	Madison	3.25
+530	Car Wash	Phoenix	2.98666666667
+533	Cardiologists	Phoenix	3.2
+534	Cardiologists	Pittsburgh	3.16666666667
+532	Cardiologists	Las Vegas	3.0
+537	Cards & Stationery	Madison	4.625
+536	Cards & Stationery	Las Vegas	4.13043478261
+539	Cards & Stationery	Pittsburgh	4.0
+535	Cards & Stationery	Charlotte	3.95
+538	Cards & Stationery	Phoenix	3.91666666667
+542	Career Counseling	Phoenix	4.4
+540	Career Counseling	Las Vegas	3.7
+541	Career Counseling	Madison	3.5
+547	Caribbean	Pittsburgh	3.9
+545	Caribbean	Madison	3.875
+543	Caribbean	Charlotte	3.80555555556
+544	Caribbean	Las Vegas	3.54166666667
+546	Caribbean	Phoenix	3.54166666667
+548	Caricatures	Las Vegas	4.5
+549	Carpenters	Phoenix	5.0
+553	Carpet Cleaning	Phoenix	4.32608695652
+551	Carpet Cleaning	Las Vegas	4.04166666667
+552	Carpet Cleaning	Madison	4.0
+554	Carpet Cleaning	Pittsburgh	3.8
+550	Carpet Cleaning	Charlotte	3.61111111111
+555	Carpet Installation	Charlotte	5.0
+557	Carpet Installation	Phoenix	4.21428571429
+556	Carpet Installation	Las Vegas	3.33333333333
+562	Carpeting	Pittsburgh	5.0
+561	Carpeting	Phoenix	4.53333333333
+558	Carpeting	Charlotte	4.5
+559	Carpeting	Las Vegas	3.95
+560	Carpeting	Madison	2.33333333333
+565	Casinos	Phoenix	4.25
+563	Casinos	Las Vegas	3.31402439024
+566	Casinos	Pittsburgh	3.0
+564	Casinos	Madison	2.0
+569	Caterers	Las Vegas	4.18918918919
+571	Caterers	Phoenix	4.14102564103
+568	Caterers	Charlotte	3.9
+572	Caterers	Pittsburgh	3.82352941176
+567	Caterers	Champaign	3.33333333333
+570	Caterers	Madison	3.07142857143
+573	Challenge Courses	Charlotte	4.5
+574	Challenge Courses	Las Vegas	4.41666666667
+575	Challenge Courses	Phoenix	4.0
+576	Champagne Bars	Las Vegas	3.75
+578	Champagne Bars	Pittsburgh	3.5
+577	Champagne Bars	Phoenix	2.5
+579	Check Cashing/Pay-day Loans	Las Vegas	4.13636363636
+580	Check Cashing/Pay-day Loans	Phoenix	4.0
+582	Cheese Shops	Charlotte	4.5
+584	Cheese Shops	Phoenix	4.5
+585	Cheese Shops	Pittsburgh	4.5
+581	Cheese Shops	Champaign	4.0
+583	Cheese Shops	Madison	4.0
+589	Cheesesteaks	Madison	3.5
+591	Cheesesteaks	Pittsburgh	3.5
+590	Cheesesteaks	Phoenix	3.42857142857
+588	Cheesesteaks	Las Vegas	3.39285714286
+587	Cheesesteaks	Charlotte	3.35
+586	Cheesesteaks	Champaign	3.0
+592	Chicken Shop	Las Vegas	4.5
+593	Chicken Shop	Phoenix	4.0
+594	Chicken Wings	Champaign	3.16666666667
+599	Chicken Wings	Pittsburgh	3.16176470588
+596	Chicken Wings	Las Vegas	3.09920634921
+598	Chicken Wings	Phoenix	2.90196078431
+595	Chicken Wings	Charlotte	2.87912087912
+597	Chicken Wings	Madison	2.75
+602	Child Care & Day Care	Madison	5.0
+600	Child Care & Day Care	Charlotte	4.0
+601	Child Care & Day Care	Las Vegas	3.85869565217
+603	Child Care & Day Care	Phoenix	3.46296296296
+604	Child Care & Day Care	Pittsburgh	3.25
+605	Childbirth Education	Las Vegas	4.5
+606	Children's Clothing	Champaign	4.5
+609	Children's Clothing	Madison	4.08333333333
+611	Children's Clothing	Pittsburgh	4.0
+608	Children's Clothing	Las Vegas	3.73170731707
+610	Children's Clothing	Phoenix	3.53125
+607	Children's Clothing	Charlotte	2.75
+612	Chimney Sweeps	Las Vegas	5.0
+613	Chimney Sweeps	Phoenix	5.0
+614	Chimney Sweeps	Pittsburgh	5.0
+615	Chinese	Champaign	3.52631578947
+618	Chinese	Madison	3.33962264151
+619	Chinese	Phoenix	3.29145728643
+620	Chinese	Pittsburgh	3.28977272727
+617	Chinese	Las Vegas	3.27971014493
+616	Chinese	Charlotte	3.175
+622	Chiropractors	Las Vegas	4.67010309278
+625	Chiropractors	Pittsburgh	4.65384615385
+624	Chiropractors	Phoenix	4.64705882353
+621	Chiropractors	Charlotte	4.58823529412
+623	Chiropractors	Madison	4.16666666667
+629	Chocolatiers & Shops	Madison	4.42857142857
+626	Chocolatiers & Shops	Champaign	4.25
+631	Chocolatiers & Shops	Pittsburgh	4.07142857143
+627	Chocolatiers & Shops	Charlotte	3.95454545455
+628	Chocolatiers & Shops	Las Vegas	3.84210526316
+630	Chocolatiers & Shops	Phoenix	3.5
+633	Christmas Trees	Phoenix	5.0
+632	Christmas Trees	Las Vegas	2.75
+634	Churches	Charlotte	4.55882352941
+635	Churches	Las Vegas	4.51219512195
+637	Churches	Phoenix	4.39393939394
+638	Churches	Pittsburgh	4.25
+636	Churches	Madison	3.5
+639	Cinema	Champaign	5.0
+640	Cinema	Charlotte	3.76666666667
+644	Cinema	Pittsburgh	3.7
+641	Cinema	Las Vegas	3.6
+643	Cinema	Phoenix	3.56666666667
+642	Cinema	Madison	3.41666666667
+647	Climbing	Phoenix	4.75
+646	Climbing	Las Vegas	4.25
+645	Climbing	Charlotte	4.0
+648	Climbing	Pittsburgh	3.5
+649	Clowns	Las Vegas	4.33333333333
+651	Cocktail Bars	Las Vegas	3.94166666667
+653	Cocktail Bars	Phoenix	3.875
+654	Cocktail Bars	Pittsburgh	3.86842105263
+652	Cocktail Bars	Madison	3.75
+650	Cocktail Bars	Charlotte	3.55
+660	Coffee & Tea	Pittsburgh	3.86394557823
+658	Coffee & Tea	Madison	3.85294117647
+659	Coffee & Tea	Phoenix	3.67777777778
+656	Coffee & Tea	Charlotte	3.61504424779
+655	Coffee & Tea	Champaign	3.5
+657	Coffee & Tea	Las Vegas	3.43657817109
+661	Coffeeshops	Las Vegas	2.77272727273
+662	College Counseling	Las Vegas	2.0
+666	Colleges & Universities	Madison	4.5
+664	Colleges & Universities	Charlotte	4.07142857143
+663	Colleges & Universities	Champaign	4.0
+665	Colleges & Universities	Las Vegas	3.5
+668	Colleges & Universities	Pittsburgh	3.42857142857
+667	Colleges & Universities	Phoenix	3.0625
+672	Colombian	Pittsburgh	5.0
+671	Colombian	Madison	4.5
+670	Colombian	Las Vegas	4.0
+669	Colombian	Charlotte	3.66666666667
+673	Colonics	Las Vegas	4.5
+678	Comedy Clubs	Pittsburgh	4.5
+677	Comedy Clubs	Phoenix	4.33333333333
+674	Comedy Clubs	Charlotte	4.25
+676	Comedy Clubs	Madison	4.0
+675	Comedy Clubs	Las Vegas	3.73333333333
+681	Comfort Food	Las Vegas	4.0
+680	Comfort Food	Charlotte	3.65
+683	Comfort Food	Phoenix	3.58333333333
+684	Comfort Food	Pittsburgh	3.4
+682	Comfort Food	Madison	3.1
+679	Comfort Food	Champaign	2.5
+686	Comic Books	Charlotte	4.5
+687	Comic Books	Las Vegas	4.32608695652
+690	Comic Books	Pittsburgh	4.08333333333
+689	Comic Books	Phoenix	3.90909090909
+688	Comic Books	Madison	3.875
+685	Comic Books	Champaign	3.5
+691	Commercial Real Estate	Las Vegas	3.90909090909
+692	Commercial Real Estate	Phoenix	2.5
+693	Community Centers	Charlotte	4.5
+694	Community Centers	Pittsburgh	3.5
+695	Community Gardens	Las Vegas	5.0
+700	Community Service/Non-Profit	Pittsburgh	4.5
+696	Community Service/Non-Profit	Charlotte	4.22727272727
+698	Community Service/Non-Profit	Madison	4.16666666667
+697	Community Service/Non-Profit	Las Vegas	3.85526315789
+699	Community Service/Non-Profit	Phoenix	3.78787878788
+701	Computers	Champaign	4.16666666667
+705	Computers	Phoenix	3.75
+704	Computers	Madison	3.27777777778
+702	Computers	Charlotte	3.05
+703	Computers	Las Vegas	3.02941176471
+706	Computers	Pittsburgh	2.5
+707	Contractors	Champaign	5.0
+710	Contractors	Madison	4.1
+709	Contractors	Las Vegas	3.90983606557
+711	Contractors	Phoenix	3.80357142857
+708	Contractors	Charlotte	3.125
+712	Contractors	Pittsburgh	2.0
+717	Convenience Stores	Phoenix	3.36637931034
+715	Convenience Stores	Las Vegas	3.33529411765
+713	Convenience Stores	Champaign	3.16666666667
+714	Convenience Stores	Charlotte	3.13541666667
+718	Convenience Stores	Pittsburgh	2.90322580645
+716	Convenience Stores	Madison	2.63636363636
+721	Cooking Classes	Madison	4.5
+720	Cooking Classes	Las Vegas	4.33333333333
+719	Cooking Classes	Charlotte	3.0
+724	Cooking Schools	Madison	4.5
+726	Cooking Schools	Pittsburgh	4.375
+725	Cooking Schools	Phoenix	4.0
+722	Cooking Schools	Charlotte	3.75
+723	Cooking Schools	Las Vegas	3.0
+727	Cosmetic Dentists	Champaign	5.0
+729	Cosmetic Dentists	Las Vegas	4.41919191919
+728	Cosmetic Dentists	Charlotte	4.33333333333
+730	Cosmetic Dentists	Madison	4.28571428571
+732	Cosmetic Dentists	Pittsburgh	4.15
+731	Cosmetic Dentists	Phoenix	3.95569620253
+733	Cosmetic Surgeons	Charlotte	4.5
+734	Cosmetic Surgeons	Las Vegas	4.15625
+736	Cosmetic Surgeons	Phoenix	3.90909090909
+735	Cosmetic Surgeons	Madison	3.5
+737	Cosmetic Surgeons	Pittsburgh	3.125
+743	Cosmetics & Beauty Supply	Pittsburgh	3.7
+740	Cosmetics & Beauty Supply	Las Vegas	3.64102564103
+742	Cosmetics & Beauty Supply	Phoenix	3.61650485437
+739	Cosmetics & Beauty Supply	Charlotte	3.41025641026
+741	Cosmetics & Beauty Supply	Madison	3.09375
+738	Cosmetics & Beauty Supply	Champaign	3.0
+747	Cosmetology Schools	Phoenix	3.5
+745	Cosmetology Schools	Las Vegas	3.4
+744	Cosmetology Schools	Charlotte	3.0
+746	Cosmetology Schools	Madison	2.0
+748	Costumes	Champaign	4.25
+751	Costumes	Madison	4.25
+753	Costumes	Pittsburgh	4.0
+750	Costumes	Las Vegas	3.76470588235
+752	Costumes	Phoenix	3.55555555556
+749	Costumes	Charlotte	3.2
+755	Counseling & Mental Health	Las Vegas	3.875
+756	Counseling & Mental Health	Phoenix	3.85714285714
+754	Counseling & Mental Health	Charlotte	3.5
+757	Countertop Installation	Las Vegas	5.0
+759	Country Clubs	Las Vegas	4.5
+762	Country Clubs	Pittsburgh	4.5
+758	Country Clubs	Charlotte	4.16666666667
+760	Country Clubs	Madison	4.0
+761	Country Clubs	Phoenix	3.75
+763	Country Dance Halls	Charlotte	4.0
+764	Country Dance Halls	Las Vegas	4.0
+765	Couriers & Delivery Services	Las Vegas	3.69444444444
+767	Couriers & Delivery Services	Phoenix	3.40909090909
+768	Couriers & Delivery Services	Pittsburgh	2.0
+766	Couriers & Delivery Services	Madison	1.5
+770	Courthouses	Phoenix	3.625
+769	Courthouses	Las Vegas	3.125
+774	Creperies	Madison	4.5
+772	Creperies	Charlotte	4.125
+776	Creperies	Pittsburgh	3.875
+773	Creperies	Las Vegas	3.8
+775	Creperies	Phoenix	3.75
+771	Creperies	Champaign	3.5
+777	Criminal Defense Law	Charlotte	4.66666666667
+778	Criminal Defense Law	Las Vegas	4.45588235294
+779	Criminal Defense Law	Phoenix	4.44444444444
+783	Cuban	Phoenix	4.14285714286
+784	Cuban	Pittsburgh	3.83333333333
+781	Cuban	Las Vegas	3.55
+782	Cuban	Madison	3.5
+780	Cuban	Charlotte	3.2
+788	Cultural Center	Pittsburgh	5.0
+785	Cultural Center	Charlotte	4.5
+787	Cultural Center	Phoenix	4.2
+786	Cultural Center	Las Vegas	3.5
+794	Cupcakes	Pittsburgh	4.5
+790	Cupcakes	Charlotte	4.125
+791	Cupcakes	Las Vegas	4.07692307692
+793	Cupcakes	Phoenix	3.83333333333
+792	Cupcakes	Madison	3.75
+789	Cupcakes	Champaign	3.5
+795	Currency Exchange	Las Vegas	4.5
+798	Customized Merchandise	Phoenix	4.0
+797	Customized Merchandise	Las Vegas	3.66666666667
+796	Customized Merchandise	Charlotte	3.5
+800	Cycling Classes	Las Vegas	5.0
+802	Cycling Classes	Pittsburgh	4.66666666667
+799	Cycling Classes	Charlotte	4.5
+801	Cycling Classes	Phoenix	4.5
+805	DJs	Madison	5.0
+804	DJs	Las Vegas	4.7380952381
+806	DJs	Phoenix	4.625
+803	DJs	Charlotte	4.0
+807	DJs	Pittsburgh	4.0
+808	DUI Law	Charlotte	5.0
+810	DUI Law	Phoenix	4.9
+809	DUI Law	Las Vegas	4.7
+812	Damage Restoration	Las Vegas	4.45454545455
+811	Damage Restoration	Charlotte	4.0
+814	Damage Restoration	Pittsburgh	4.0
+813	Damage Restoration	Phoenix	3.92857142857
+815	Dance Clubs	Champaign	3.5
+819	Dance Clubs	Phoenix	3.46428571429
+817	Dance Clubs	Las Vegas	3.41826923077
+816	Dance Clubs	Charlotte	3.13636363636
+820	Dance Clubs	Pittsburgh	3.10526315789
+818	Dance Clubs	Madison	3.0
+824	Dance Schools	Phoenix	4.78571428571
+823	Dance Schools	Madison	4.5
+822	Dance Schools	Las Vegas	4.33333333333
+821	Dance Schools	Charlotte	4.16666666667
+825	Dance Studios	Charlotte	4.83333333333
+826	Dance Studios	Las Vegas	4.71153846154
+827	Dance Studios	Madison	4.66666666667
+828	Dance Studios	Phoenix	4.63157894737
+829	Dance Studios	Pittsburgh	3.16666666667
+832	Data Recovery	Madison	5.0
+831	Data Recovery	Las Vegas	4.2
+833	Data Recovery	Phoenix	3.25
+830	Data Recovery	Charlotte	2.5
+834	Day Camps	Phoenix	5.0
+840	Day Spas	Pittsburgh	4.19444444444
+839	Day Spas	Phoenix	4.15909090909
+837	Day Spas	Las Vegas	4.06598984772
+835	Day Spas	Champaign	4.0
+836	Day Spas	Charlotte	3.9375
+838	Day Spas	Madison	3.84615384615
+841	Debt Relief Services	Las Vegas	2.0
+842	Delis	Champaign	4.125
+847	Delis	Pittsburgh	3.91111111111
+846	Delis	Phoenix	3.73033707865
+844	Delis	Las Vegas	3.66336633663
+843	Delis	Charlotte	3.63636363636
+845	Delis	Madison	3.54761904762
+848	Demolition Services	Phoenix	5.0
+851	Dentists	Las Vegas	4.2625
+850	Dentists	Charlotte	4.22115384615
+852	Dentists	Madison	4.19047619048
+853	Dentists	Phoenix	4.10427807487
+854	Dentists	Pittsburgh	4.03571428571
+849	Dentists	Champaign	3.08333333333
+857	Department Stores	Las Vegas	3.23387096774
+856	Department Stores	Charlotte	3.18604651163
+860	Department Stores	Pittsburgh	3.16666666667
+859	Department Stores	Phoenix	3.15671641791
+855	Department Stores	Champaign	3.125
+858	Department Stores	Madison	2.97222222222
+863	Departments of Motor Vehicles	Madison	4.0
+865	Departments of Motor Vehicles	Pittsburgh	4.0
+862	Departments of Motor Vehicles	Las Vegas	3.57142857143
+864	Departments of Motor Vehicles	Phoenix	3.41666666667
+861	Departments of Motor Vehicles	Charlotte	2.4
+868	Dermatologists	Madison	3.5
+867	Dermatologists	Las Vegas	3.3125
+869	Dermatologists	Phoenix	3.20588235294
+866	Dermatologists	Charlotte	3.16666666667
+870	Dermatologists	Pittsburgh	3.0
+875	Desserts	Phoenix	4.08571428571
+874	Desserts	Madison	4.03125
+872	Desserts	Charlotte	3.97115384615
+876	Desserts	Pittsburgh	3.94444444444
+873	Desserts	Las Vegas	3.79639175258
+871	Desserts	Champaign	3.33333333333
+878	Diagnostic Imaging	Las Vegas	3.56818181818
+880	Diagnostic Imaging	Phoenix	3.3
+877	Diagnostic Imaging	Charlotte	2.5
+879	Diagnostic Imaging	Madison	2.5
+881	Diagnostic Services	Charlotte	3.83333333333
+882	Diagnostic Services	Las Vegas	3.31818181818
+884	Diagnostic Services	Phoenix	3.24074074074
+883	Diagnostic Services	Madison	2.5
+888	Dim Sum	Phoenix	3.5
+889	Dim Sum	Pittsburgh	3.5
+885	Dim Sum	Charlotte	3.33333333333
+887	Dim Sum	Madison	3.16666666667
+886	Dim Sum	Las Vegas	3.15
+895	Diners	Pittsburgh	3.75
+892	Diners	Las Vegas	3.47826086957
+894	Diners	Phoenix	3.47297297297
+891	Diners	Charlotte	3.42592592593
+893	Diners	Madison	3.16666666667
+890	Diners	Champaign	2.75
+896	Disc Golf	Charlotte	4.16666666667
+897	Disc Golf	Las Vegas	4.0
+898	Disc Golf	Phoenix	3.75
+901	Discount Store	Madison	4.25
+902	Discount Store	Phoenix	3.54838709677
+900	Discount Store	Las Vegas	3.29487179487
+899	Discount Store	Charlotte	3.16666666667
+903	Discount Store	Pittsburgh	3.125
+904	Distilleries	Madison	4.75
+905	Distilleries	Pittsburgh	4.5
+907	Dive Bars	Charlotte	3.92857142857
+908	Dive Bars	Las Vegas	3.81707317073
+910	Dive Bars	Phoenix	3.76388888889
+911	Dive Bars	Pittsburgh	3.71052631579
+906	Dive Bars	Champaign	3.7
+909	Dive Bars	Madison	3.54347826087
+913	Diving	Phoenix	4.75
+912	Diving	Charlotte	3.75
+916	Divorce & Family Law	Phoenix	4.40625
+915	Divorce & Family Law	Las Vegas	4.11111111111
+914	Divorce & Family Law	Charlotte	4.0
+919	Do-It-Yourself Food	Las Vegas	4.4
+920	Do-It-Yourself Food	Phoenix	4.125
+918	Do-It-Yourself Food	Charlotte	4.0
+921	Do-It-Yourself Food	Pittsburgh	3.75
+917	Do-It-Yourself Food	Champaign	3.5
+922	Doctors	Charlotte	3.51449275362
+925	Doctors	Phoenix	3.45423728814
+923	Doctors	Las Vegas	3.36034912718
+924	Doctors	Madison	3.34615384615
+926	Doctors	Pittsburgh	3.32608695652
+929	Dog Parks	Madison	4.5
+931	Dog Parks	Pittsburgh	4.2
+928	Dog Parks	Las Vegas	4.0
+927	Dog Parks	Charlotte	3.83333333333
+930	Dog Parks	Phoenix	3.64285714286
+934	Dog Walkers	Madison	4.83333333333
+935	Dog Walkers	Phoenix	4.71428571429
+933	Dog Walkers	Las Vegas	4.58333333333
+936	Dog Walkers	Pittsburgh	4.58333333333
+932	Dog Walkers	Charlotte	4.5
+938	Dominican	Phoenix	4.0
+937	Dominican	Charlotte	3.75
+943	Donuts	Phoenix	3.58823529412
+941	Donuts	Las Vegas	3.57258064516
+942	Donuts	Madison	3.5
+944	Donuts	Pittsburgh	3.33333333333
+940	Donuts	Charlotte	3.025
+939	Donuts	Champaign	2.75
+946	Door Sales/Installation	Phoenix	4.08333333333
+945	Door Sales/Installation	Las Vegas	4.05
+948	Doulas	Phoenix	5.0
+947	Doulas	Las Vegas	4.875
+952	Driving Schools	Phoenix	5.0
+950	Driving Schools	Las Vegas	4.55555555556
+951	Driving Schools	Madison	4.0
+949	Driving Schools	Charlotte	3.0
+954	Drugstores	Charlotte	3.31481481481
+953	Drugstores	Champaign	3.25
+956	Drugstores	Madison	3.15384615385
+957	Drugstores	Phoenix	3.085
+955	Drugstores	Las Vegas	3.072
+958	Drugstores	Pittsburgh	3.0
+961	Dry Cleaning & Laundry	Las Vegas	3.42553191489
+960	Dry Cleaning & Laundry	Charlotte	3.37288135593
+962	Dry Cleaning & Laundry	Madison	3.34210526316
+963	Dry Cleaning & Laundry	Phoenix	3.3152173913
+964	Dry Cleaning & Laundry	Pittsburgh	3.08571428571
+959	Dry Cleaning & Laundry	Champaign	2.5
+965	Drywall Installation & Repair	Las Vegas	4.3
+966	Drywall Installation & Repair	Phoenix	4.0
+969	Ear Nose & Throat	Phoenix	3.04545454545
+967	Ear Nose & Throat	Charlotte	3.0
+968	Ear Nose & Throat	Las Vegas	2.5
+972	Education	Las Vegas	4.10882352941
+975	Education	Pittsburgh	4.07142857143
+974	Education	Phoenix	3.98598130841
+973	Education	Madison	3.97619047619
+971	Education	Charlotte	3.92222222222
+970	Education	Champaign	3.33333333333
+980	Educational Services	Pittsburgh	5.0
+978	Educational Services	Madison	4.0
+976	Educational Services	Charlotte	3.81818181818
+977	Educational Services	Las Vegas	3.81818181818
+979	Educational Services	Phoenix	3.75
+981	Egyptian	Pittsburgh	4.5
+985	Electricians	Phoenix	4.25862068966
+984	Electricians	Madison	4.0
+982	Electricians	Charlotte	3.875
+983	Electricians	Las Vegas	3.79411764706
+986	Electricians	Pittsburgh	2.875
+993	Electronics	Champaign	3.5
+997	Electronics	Phoenix	3.29347826087
+995	Electronics	Las Vegas	3.28873239437
+998	Electronics	Pittsburgh	3.25
+994	Electronics	Charlotte	3.05555555556
+996	Electronics	Madison	2.625
+987	Electronics Repair	Champaign	5.0
+990	Electronics Repair	Madison	4.5
+991	Electronics Repair	Phoenix	4.35
+989	Electronics Repair	Las Vegas	4.16666666667
+988	Electronics Repair	Charlotte	4.0
+992	Electronics Repair	Pittsburgh	3.75
+1000	Elementary Schools	Las Vegas	4.12121212121
+999	Elementary Schools	Charlotte	3.75
+1002	Elementary Schools	Phoenix	3.62962962963
+1001	Elementary Schools	Madison	2.5
+1006	Embroidery & Crochet	Phoenix	5.0
+1007	Embroidery & Crochet	Pittsburgh	5.0
+1003	Embroidery & Crochet	Charlotte	4.5
+1004	Embroidery & Crochet	Las Vegas	4.29166666667
+1005	Embroidery & Crochet	Madison	3.5
+1008	Emergency Rooms	Phoenix	3.5
+1010	Empanadas	Pittsburgh	5.0
+1009	Empanadas	Madison	4.25
+1013	Employment Agencies	Madison	3.5
+1014	Employment Agencies	Phoenix	3.38888888889
+1011	Employment Agencies	Charlotte	3.16666666667
+1012	Employment Agencies	Las Vegas	3.16666666667
+1017	Employment Law	Phoenix	5.0
+1016	Employment Law	Las Vegas	4.75
+1015	Employment Law	Charlotte	4.0
+1018	Endocrinologists	Las Vegas	3.4
+1019	Endocrinologists	Phoenix	3.0
+1020	Endodontists	Charlotte	5.0
+1024	Endodontists	Pittsburgh	4.75
+1021	Endodontists	Las Vegas	4.68181818182
+1023	Endodontists	Phoenix	4.6
+1022	Endodontists	Madison	3.75
+1025	Engraving	Las Vegas	5.0
+1026	Engraving	Phoenix	5.0
+1027	Engraving	Pittsburgh	2.5
+1031	Escape Games	Phoenix	5.0
+1029	Escape Games	Las Vegas	4.75
+1028	Escape Games	Charlotte	4.5
+1032	Escape Games	Pittsburgh	4.0
+1030	Escape Games	Madison	3.5
+1033	Estate Liquidation	Las Vegas	3.83333333333
+1034	Estate Liquidation	Phoenix	2.5
+1036	Estate Planning Law	Phoenix	4.40909090909
+1035	Estate Planning Law	Las Vegas	4.16666666667
+1040	Ethiopian	Phoenix	4.4
+1037	Ethiopian	Charlotte	4.1
+1041	Ethiopian	Pittsburgh	4.0
+1038	Ethiopian	Las Vegas	3.86363636364
+1039	Ethiopian	Madison	3.5
+1045	Ethnic Food	Madison	4.25
+1046	Ethnic Food	Phoenix	4.15151515152
+1047	Ethnic Food	Pittsburgh	4.125
+1042	Ethnic Food	Champaign	3.83333333333
+1044	Ethnic Food	Las Vegas	3.76829268293
+1043	Ethnic Food	Charlotte	3.33333333333
+1048	Event Photography	Champaign	5.0
+1051	Event Photography	Madison	5.0
+1053	Event Photography	Pittsburgh	5.0
+1050	Event Photography	Las Vegas	4.78205128205
+1052	Event Photography	Phoenix	4.78
+1049	Event Photography	Charlotte	4.375
+1056	Event Planning & Services	Las Vegas	3.81868131868
+1054	Event Planning & Services	Champaign	3.73684210526
+1059	Event Planning & Services	Pittsburgh	3.70982142857
+1058	Event Planning & Services	Phoenix	3.68734491315
+1057	Event Planning & Services	Madison	3.59615384615
+1055	Event Planning & Services	Charlotte	3.46304347826
+1060	Eyelash Service	Champaign	5.0
+1065	Eyelash Service	Pittsburgh	4.5
+1062	Eyelash Service	Las Vegas	4.42924528302
+1061	Eyelash Service	Charlotte	4.35
+1064	Eyelash Service	Phoenix	4.27941176471
+1063	Eyelash Service	Madison	4.0
+1068	Eyewear & Opticians	Las Vegas	4.07042253521
+1071	Eyewear & Opticians	Pittsburgh	3.84615384615
+1067	Eyewear & Opticians	Charlotte	3.7380952381
+1066	Eyewear & Opticians	Champaign	3.625
+1070	Eyewear & Opticians	Phoenix	3.60344827586
+1069	Eyewear & Opticians	Madison	3.25
+1077	Fabric Stores	Pittsburgh	5.0
+1074	Fabric Stores	Las Vegas	4.09090909091
+1076	Fabric Stores	Phoenix	3.81818181818
+1072	Fabric Stores	Champaign	3.5
+1073	Fabric Stores	Charlotte	3.375
+1075	Fabric Stores	Madison	2.5
+1078	Face Painting	Las Vegas	4.875
+1079	Falafel	Madison	3.66666666667
+1082	Family Practice	Phoenix	3.47619047619
+1080	Family Practice	Charlotte	3.375
+1081	Family Practice	Las Vegas	3.05208333333
+1083	Family Practice	Pittsburgh	1.0
+1084	Farm Equipment Repair	Phoenix	4.5
+1087	Farmers Market	Madison	4.375
+1089	Farmers Market	Pittsburgh	4.375
+1085	Farmers Market	Charlotte	4.25
+1088	Farmers Market	Phoenix	4.17391304348
+1086	Farmers Market	Las Vegas	4.125
+1090	Farming Equipment	Charlotte	4.0
+1096	Fashion	Pittsburgh	3.82065217391
+1093	Fashion	Las Vegas	3.72654462243
+1095	Fashion	Phoenix	3.628125
+1094	Fashion	Madison	3.61797752809
+1092	Fashion	Charlotte	3.54260089686
+1091	Fashion	Champaign	3.45833333333
+1098	Fast Food	Charlotte	3.01339285714
+1101	Fast Food	Phoenix	2.94255874674
+1100	Fast Food	Madison	2.92553191489
+1102	Fast Food	Pittsburgh	2.91095890411
+1099	Fast Food	Las Vegas	2.88660578387
+1097	Fast Food	Champaign	2.67857142857
+1104	Fences & Gates	Las Vegas	4.58333333333
+1105	Fences & Gates	Phoenix	3.41666666667
+1103	Fences & Gates	Charlotte	2.5
+1106	Fertility	Las Vegas	4.25
+1107	Fertility	Phoenix	3.375
+1112	Festivals	Pittsburgh	4.25
+1110	Festivals	Madison	4.0
+1108	Festivals	Charlotte	3.73913043478
+1109	Festivals	Las Vegas	3.65384615385
+1111	Festivals	Phoenix	3.375
+1116	Filipino	Pittsburgh	4.25
+1115	Filipino	Phoenix	4.0
+1114	Filipino	Madison	3.5
+1113	Filipino	Las Vegas	3.46808510638
+1117	Financial Advising	Las Vegas	5.0
+1118	Financial Advising	Phoenix	4.16666666667
+1119	Financial Advising	Pittsburgh	3.0
+1120	Financial Services	Champaign	5.0
+1123	Financial Services	Madison	3.53125
+1125	Financial Services	Pittsburgh	3.33333333333
+1122	Financial Services	Las Vegas	3.31046931408
+1124	Financial Services	Phoenix	3.26369863014
+1121	Financial Services	Charlotte	2.93421052632
+1126	Fire Departments	Las Vegas	4.0
+1127	Fire Protection Services	Las Vegas	5.0
+1128	Fire Protection Services	Madison	4.0
+1129	Firearm Training	Las Vegas	5.0
+1131	Fireplace Services	Las Vegas	4.5
+1132	Fireplace Services	Phoenix	3.25
+1130	Fireplace Services	Charlotte	1.5
+1134	Firewood	Phoenix	4.5
+1133	Firewood	Las Vegas	4.0
+1137	First Aid Classes	Phoenix	5.0
+1136	First Aid Classes	Las Vegas	4.75
+1135	First Aid Classes	Charlotte	4.5
+1138	Fish & Chips	Champaign	4.5
+1143	Fish & Chips	Pittsburgh	4.0
+1140	Fish & Chips	Las Vegas	3.83333333333
+1141	Fish & Chips	Madison	3.64285714286
+1142	Fish & Chips	Phoenix	3.44444444444
+1139	Fish & Chips	Charlotte	2.875
+1144	Fishing	Madison	5.0
+1145	Fishing	Phoenix	4.0
+1146	Fitness & Instruction	Champaign	4.75
+1148	Fitness & Instruction	Las Vegas	4.34477124183
+1150	Fitness & Instruction	Phoenix	4.32619047619
+1147	Fitness & Instruction	Charlotte	4.25909090909
+1151	Fitness & Instruction	Pittsburgh	4.21212121212
+1149	Fitness & Instruction	Madison	4.17142857143
+1153	Fitness/Exercise Equipment	Phoenix	5.0
+1152	Fitness/Exercise Equipment	Las Vegas	3.5
+1157	Flea Markets	Pittsburgh	4.0
+1154	Flea Markets	Charlotte	3.25
+1155	Flea Markets	Las Vegas	3.25
+1156	Flea Markets	Phoenix	2.5
+1158	Flight Instruction	Las Vegas	4.5
+1159	Flooring	Charlotte	4.25
+1160	Flooring	Las Vegas	3.89393939394
+1162	Flooring	Phoenix	3.81666666667
+1161	Flooring	Madison	3.2
+1163	Florists	Champaign	4.2
+1166	Florists	Madison	4.1
+1168	Florists	Pittsburgh	4.07894736842
+1165	Florists	Las Vegas	3.75
+1167	Florists	Phoenix	3.66666666667
+1164	Florists	Charlotte	3.35
+1172	Flowers & Gifts	Madison	4.31818181818
+1169	Flowers & Gifts	Champaign	4.2
+1174	Flowers & Gifts	Pittsburgh	4.17567567568
+1173	Flowers & Gifts	Phoenix	3.91358024691
+1171	Flowers & Gifts	Las Vegas	3.91228070175
+1170	Flowers & Gifts	Charlotte	3.8
+1175	Fondue	Charlotte	4.5
+1176	Fondue	Las Vegas	4.33333333333
+1179	Fondue	Pittsburgh	4.0
+1178	Fondue	Phoenix	3.75
+1177	Fondue	Madison	3.0
+1208	Food	Madison	3.84775641026
+1210	Food	Pittsburgh	3.81183745583
+1206	Food	Charlotte	3.72794117647
+1209	Food	Phoenix	3.71428571429
+1205	Food	Champaign	3.70192307692
+1207	Food	Las Vegas	3.65324449594
+1180	Food Banks	Las Vegas	5.0
+1181	Food Banks	Phoenix	4.5
+1186	Food Court	Pittsburgh	4.5
+1185	Food Court	Phoenix	3.9
+1183	Food Court	Las Vegas	3.34615384615
+1182	Food Court	Charlotte	3.0
+1184	Food Court	Madison	1.5
+1190	Food Delivery Services	Pittsburgh	3.83333333333
+1188	Food Delivery Services	Las Vegas	3.75
+1189	Food Delivery Services	Phoenix	3.68181818182
+1187	Food Delivery Services	Charlotte	3.66666666667
+1193	Food Stands	Madison	4.5
+1194	Food Stands	Phoenix	4.33333333333
+1191	Food Stands	Charlotte	4.0
+1192	Food Stands	Las Vegas	3.75757575758
+1195	Food Stands	Pittsburgh	3.33333333333
+1196	Food Tours	Charlotte	5.0
+1197	Food Tours	Las Vegas	4.75
+1198	Food Tours	Phoenix	3.0
+1201	Food Trucks	Las Vegas	4.2734375
+1202	Food Trucks	Madison	4.23333333333
+1203	Food Trucks	Phoenix	4.12037037037
+1200	Food Trucks	Charlotte	4.09302325581
+1204	Food Trucks	Pittsburgh	3.97916666667
+1199	Food Trucks	Champaign	3.75
+1214	Formal Wear	Phoenix	4.33333333333
+1212	Formal Wear	Las Vegas	4.0
+1211	Formal Wear	Charlotte	3.5
+1213	Formal Wear	Madison	3.0
+1215	Formal Wear	Pittsburgh	2.75
+1217	Framing	Las Vegas	4.5
+1218	Framing	Phoenix	4.35714285714
+1216	Framing	Charlotte	4.125
+1221	French	Las Vegas	4.08888888889
+1224	French	Pittsburgh	4.0
+1222	French	Madison	3.8
+1219	French	Champaign	3.75
+1220	French	Charlotte	3.73076923077
+1223	French	Phoenix	3.65384615385
+1227	Fruits & Veggies	Madison	4.5
+1228	Fruits & Veggies	Phoenix	4.3
+1226	Fruits & Veggies	Las Vegas	4.2
+1225	Fruits & Veggies	Charlotte	4.0
+1229	Fruits & Veggies	Pittsburgh	3.75
+1232	Funeral Services & Cemeteries	Madison	5.0
+1230	Funeral Services & Cemeteries	Charlotte	4.5
+1234	Funeral Services & Cemeteries	Pittsburgh	4.5
+1233	Funeral Services & Cemeteries	Phoenix	3.77777777778
+1231	Funeral Services & Cemeteries	Las Vegas	3.27272727273
+1235	Furniture Assembly	Las Vegas	5.0
+1236	Furniture Assembly	Phoenix	4.5
+1239	Furniture Repair	Pittsburgh	5.0
+1237	Furniture Repair	Las Vegas	4.5
+1238	Furniture Repair	Phoenix	3.5
+1240	Furniture Reupholstery	Charlotte	4.5
+1242	Furniture Reupholstery	Phoenix	4.5
+1243	Furniture Reupholstery	Pittsburgh	4.16666666667
+1241	Furniture Reupholstery	Las Vegas	3.9375
+1244	Furniture Stores	Champaign	4.0
+1248	Furniture Stores	Phoenix	3.77710843373
+1245	Furniture Stores	Charlotte	3.75555555556
+1249	Furniture Stores	Pittsburgh	3.71428571429
+1246	Furniture Stores	Las Vegas	3.57
+1247	Furniture Stores	Madison	3.38888888889
+1254	Garage Door Services	Pittsburgh	5.0
+1253	Garage Door Services	Phoenix	4.46428571429
+1251	Garage Door Services	Las Vegas	4.42307692308
+1250	Garage Door Services	Charlotte	2.5
+1252	Garage Door Services	Madison	2.5
+1257	Gardeners	Phoenix	4.0625
+1255	Gardeners	Charlotte	3.75
+1256	Gardeners	Las Vegas	3.33333333333
+1258	Gas & Service Stations	Champaign	3.5
+1262	Gas & Service Stations	Phoenix	3.24193548387
+1260	Gas & Service Stations	Las Vegas	3.18954248366
+1259	Gas & Service Stations	Charlotte	3.18333333333
+1263	Gas & Service Stations	Pittsburgh	2.825
+1261	Gas & Service Stations	Madison	2.5
+1266	Gastroenterologist	Phoenix	3.0
+1265	Gastroenterologist	Las Vegas	2.66666666667
+1264	Gastroenterologist	Charlotte	1.5
+1267	Gastropubs	Champaign	4.0
+1271	Gastropubs	Phoenix	3.875
+1268	Gastropubs	Charlotte	3.625
+1269	Gastropubs	Las Vegas	3.625
+1270	Gastropubs	Madison	3.625
+1272	Gastropubs	Pittsburgh	3.58333333333
+1274	Gay Bars	Charlotte	3.7
+1276	Gay Bars	Madison	3.66666666667
+1277	Gay Bars	Phoenix	3.51470588235
+1273	Gay Bars	Champaign	3.5
+1275	Gay Bars	Las Vegas	3.5
+1278	Gay Bars	Pittsburgh	3.29166666667
+1283	Gelato	Phoenix	4.5625
+1281	Gelato	Las Vegas	4.13636363636
+1280	Gelato	Charlotte	4.125
+1284	Gelato	Pittsburgh	4.0
+1282	Gelato	Madison	3.75
+1279	Gelato	Champaign	3.5
+1287	General Dentistry	Las Vegas	4.32663316583
+1286	General Dentistry	Charlotte	4.25925925926
+1289	General Dentistry	Phoenix	4.09302325581
+1288	General Dentistry	Madison	4.08823529412
+1290	General Dentistry	Pittsburgh	3.80952380952
+1285	General Dentistry	Champaign	3.125
+1292	General Litigation	Phoenix	5.0
+1291	General Litigation	Las Vegas	4.8125
+1293	German	Charlotte	4.0
+1297	German	Pittsburgh	4.0
+1294	German	Las Vegas	3.91666666667
+1295	German	Madison	3.5
+1296	German	Phoenix	3.25
+1298	Gerontologists	Las Vegas	3.5
+1299	Gift Shops	Champaign	4.5
+1302	Gift Shops	Madison	4.45
+1304	Gift Shops	Pittsburgh	4.17857142857
+1301	Gift Shops	Las Vegas	3.89705882353
+1303	Gift Shops	Phoenix	3.76086956522
+1300	Gift Shops	Charlotte	3.70588235294
+1305	Glass & Mirrors	Las Vegas	4.35714285714
+1306	Glass & Mirrors	Phoenix	3.875
+1312	Gluten-Free	Pittsburgh	4.1875
+1311	Gluten-Free	Phoenix	3.97916666667
+1309	Gluten-Free	Las Vegas	3.92307692308
+1308	Gluten-Free	Charlotte	3.875
+1310	Gluten-Free	Madison	3.875
+1307	Gluten-Free	Champaign	3.25
+1313	Go Karts	Charlotte	3.5
+1314	Go Karts	Las Vegas	3.5
+1317	Gold Buyers	Phoenix	4.66666666667
+1315	Gold Buyers	Charlotte	4.5
+1316	Gold Buyers	Las Vegas	4.25
+1325	Golf	Las Vegas	3.68571428571
+1324	Golf	Charlotte	3.55
+1326	Golf	Madison	3.5
+1328	Golf	Pittsburgh	3.5
+1327	Golf	Phoenix	3.32
+1320	Golf Equipment	Las Vegas	4.2
+1321	Golf Equipment	Phoenix	4.0
+1319	Golf Equipment	Charlotte	3.66666666667
+1318	Golf Equipment Shops	Las Vegas	5.0
+1322	Golf Lessons	Charlotte	4.5
+1323	Golf Lessons	Phoenix	4.5
+1329	Graphic Design	Charlotte	5.0
+1331	Graphic Design	Madison	5.0
+1332	Graphic Design	Phoenix	4.425
+1330	Graphic Design	Las Vegas	4.36904761905
+1333	Graphic Design	Pittsburgh	3.16666666667
+1338	Greek	Phoenix	3.83606557377
+1335	Greek	Charlotte	3.76315789474
+1339	Greek	Pittsburgh	3.73913043478
+1336	Greek	Las Vegas	3.64864864865
+1334	Greek	Champaign	3.5
+1337	Greek	Madison	3.45833333333
+1343	Grocery	Madison	3.6914893617
+1340	Grocery	Champaign	3.66666666667
+1345	Grocery	Pittsburgh	3.6301369863
+1341	Grocery	Charlotte	3.53937007874
+1342	Grocery	Las Vegas	3.37333333333
+1344	Grocery	Phoenix	3.32051282051
+1346	Guest Houses	Pittsburgh	5.0
+1351	Guitar Stores	Pittsburgh	4.5
+1349	Guitar Stores	Madison	4.33333333333
+1348	Guitar Stores	Las Vegas	4.3
+1350	Guitar Stores	Phoenix	4.16666666667
+1347	Guitar Stores	Charlotte	3.5
+1352	Gun/Rifle Ranges	Charlotte	4.5
+1353	Gun/Rifle Ranges	Las Vegas	4.3125
+1354	Gun/Rifle Ranges	Phoenix	4.25
+1356	Guns & Ammo	Las Vegas	4.36363636364
+1357	Guns & Ammo	Phoenix	4.31578947368
+1355	Guns & Ammo	Charlotte	4.0
+1358	Gutter Services	Charlotte	5.0
+1359	Gutter Services	Phoenix	5.0
+1360	Gymnastics	Charlotte	5.0
+1362	Gymnastics	Madison	4.25
+1363	Gymnastics	Phoenix	4.0
+1361	Gymnastics	Las Vegas	3.91666666667
+1364	Gyms	Champaign	4.5
+1367	Gyms	Madison	4.19444444444
+1369	Gyms	Pittsburgh	4.1
+1366	Gyms	Las Vegas	4.08552631579
+1365	Gyms	Charlotte	4.02586206897
+1368	Gyms	Phoenix	3.99047619048
+1371	Hair Extensions	Las Vegas	4.51923076923
+1373	Hair Extensions	Phoenix	4.29166666667
+1370	Hair Extensions	Charlotte	3.77777777778
+1374	Hair Extensions	Pittsburgh	3.58333333333
+1372	Hair Extensions	Madison	3.25
+1375	Hair Loss Centers	Charlotte	2.0
+1378	Hair Removal	Las Vegas	4.31034482759
+1380	Hair Removal	Phoenix	4.26153846154
+1379	Hair Removal	Madison	4.15384615385
+1376	Hair Removal	Champaign	4.125
+1377	Hair Removal	Charlotte	4.09615384615
+1381	Hair Removal	Pittsburgh	4.09375
+1386	Hair Salons	Phoenix	4.23308270677
+1384	Hair Salons	Las Vegas	4.22645290581
+1383	Hair Salons	Charlotte	4.16901408451
+1382	Hair Salons	Champaign	4.16666666667
+1387	Hair Salons	Pittsburgh	4.0
+1385	Hair Salons	Madison	3.98
+1388	Hair Stylists	Champaign	5.0
+1392	Hair Stylists	Phoenix	4.65625
+1390	Hair Stylists	Las Vegas	4.58527131783
+1391	Hair Stylists	Madison	4.35714285714
+1389	Hair Stylists	Charlotte	4.34375
+1393	Hair Stylists	Pittsburgh	3.91666666667
+1396	Halal	Madison	4.5
+1397	Halal	Phoenix	4.33333333333
+1398	Halal	Pittsburgh	4.33333333333
+1394	Halal	Charlotte	4.0
+1395	Halal	Las Vegas	3.64285714286
+1403	Handyman	Pittsburgh	5.0
+1400	Handyman	Las Vegas	4.39285714286
+1402	Handyman	Phoenix	4.15625
+1401	Handyman	Madison	4.0
+1399	Handyman	Charlotte	3.0
+1409	Hardware Stores	Pittsburgh	4.0625
+1408	Hardware Stores	Phoenix	3.75
+1407	Hardware Stores	Madison	3.70833333333
+1406	Hardware Stores	Las Vegas	3.60869565217
+1404	Hardware Stores	Champaign	3.5
+1405	Hardware Stores	Charlotte	3.39285714286
+1411	Hats	Phoenix	4.5
+1410	Hats	Las Vegas	4.16666666667
+1413	Hawaiian	Las Vegas	3.74050632911
+1414	Hawaiian	Phoenix	3.64285714286
+1412	Hawaiian	Charlotte	3.5
+1415	Head Shops	Las Vegas	5.0
+1416	Head Shops	Madison	3.5
+1418	Health & Medical	Charlotte	3.92201834862
+1422	Health & Medical	Pittsburgh	3.89150943396
+1420	Health & Medical	Madison	3.85443037975
+1421	Health & Medical	Phoenix	3.85335689046
+1419	Health & Medical	Las Vegas	3.84947538337
+1417	Health & Medical	Champaign	3.56666666667
+1423	Health Markets	Champaign	5.0
+1427	Health Markets	Phoenix	4.02
+1424	Health Markets	Charlotte	4.0
+1426	Health Markets	Madison	4.0
+1425	Health Markets	Las Vegas	3.94444444444
+1428	Health Markets	Pittsburgh	3.5
+1429	Health Retreats	Madison	4.0
+1432	Hearing Aid Providers	Phoenix	3.5
+1430	Hearing Aid Providers	Charlotte	3.0
+1431	Hearing Aid Providers	Las Vegas	3.0
+1436	Heating & Air Conditioning/HVAC	Madison	4.625
+1433	Heating & Air Conditioning/HVAC	Champaign	4.25
+1437	Heating & Air Conditioning/HVAC	Phoenix	4.16666666667
+1435	Heating & Air Conditioning/HVAC	Las Vegas	4.07051282051
+1434	Heating & Air Conditioning/HVAC	Charlotte	3.63636363636
+1438	Heating & Air Conditioning/HVAC	Pittsburgh	3.5
+1440	Henna Artists	Phoenix	5.0
+1439	Henna Artists	Las Vegas	4.125
+1442	Herbs & Spices	Las Vegas	5.0
+1443	Herbs & Spices	Madison	4.75
+1441	Herbs & Spices	Charlotte	4.5
+1445	Herbs & Spices	Pittsburgh	4.5
+1444	Herbs & Spices	Phoenix	4.2
+1447	High Fidelity Audio Equipment	Phoenix	5.0
+1446	High Fidelity Audio Equipment	Las Vegas	4.0
+1448	Hiking	Charlotte	4.5
+1450	Hiking	Madison	4.5
+1451	Hiking	Phoenix	4.39285714286
+1449	Hiking	Las Vegas	4.38888888889
+1452	Hiking	Pittsburgh	4.0
+1453	Himalayan/Nepalese	Las Vegas	4.0
+1454	Himalayan/Nepalese	Madison	3.75
+1455	Himalayan/Nepalese	Pittsburgh	3.5
+1456	Hindu Temples	Las Vegas	3.5
+1458	Historical Tours	Las Vegas	5.0
+1457	Historical Tours	Charlotte	4.0
+1464	Hobby Shops	Pittsburgh	4.0
+1459	Hobby Shops	Champaign	3.83333333333
+1461	Hobby Shops	Las Vegas	3.72826086957
+1460	Hobby Shops	Charlotte	3.72727272727
+1462	Hobby Shops	Madison	3.5
+1463	Hobby Shops	Phoenix	3.46153846154
+1470	Home & Garden	Pittsburgh	3.95652173913
+1469	Home & Garden	Phoenix	3.89679715302
+1465	Home & Garden	Champaign	3.80769230769
+1467	Home & Garden	Las Vegas	3.74028268551
+1466	Home & Garden	Charlotte	3.71363636364
+1468	Home & Garden	Madison	3.64516129032
+1471	Home & Rental Insurance	Las Vegas	5.0
+1472	Home & Rental Insurance	Phoenix	5.0
+1473	Home Automation	Las Vegas	4.75
+1476	Home Cleaning	Madison	3.95
+1475	Home Cleaning	Las Vegas	3.87301587302
+1477	Home Cleaning	Phoenix	3.54166666667
+1474	Home Cleaning	Charlotte	2.96153846154
+1478	Home Cleaning	Pittsburgh	2.66666666667
+1483	Home Decor	Phoenix	4.01587301587
+1484	Home Decor	Pittsburgh	3.96666666667
+1481	Home Decor	Las Vegas	3.88461538462
+1480	Home Decor	Charlotte	3.79761904762
+1482	Home Decor	Madison	3.64705882353
+1479	Home Decor	Champaign	3.33333333333
+1485	Home Health Care	Las Vegas	3.33333333333
+1486	Home Health Care	Phoenix	3.08333333333
+1488	Home Inspectors	Madison	4.75
+1489	Home Inspectors	Phoenix	4.57142857143
+1487	Home Inspectors	Las Vegas	4.375
+1490	Home Inspectors	Pittsburgh	4.16666666667
+1492	Home Organization	Phoenix	4.5
+1491	Home Organization	Las Vegas	3.9
+1495	Home Services	Las Vegas	3.62204724409
+1496	Home Services	Madison	3.62048192771
+1497	Home Services	Phoenix	3.61948717949
+1498	Home Services	Pittsburgh	3.36486486486
+1494	Home Services	Charlotte	3.31472081218
+1493	Home Services	Champaign	2.8125
+1499	Home Staging	Pittsburgh	4.5
+1503	Home Theatre Installation	Phoenix	4.85714285714
+1501	Home Theatre Installation	Las Vegas	4.73333333333
+1502	Home Theatre Installation	Madison	3.0
+1500	Home Theatre Installation	Charlotte	2.5
+1504	Home Window Tinting	Charlotte	5.0
+1506	Home Window Tinting	Phoenix	4.75
+1505	Home Window Tinting	Las Vegas	4.39285714286
+1512	Hookah Bars	Pittsburgh	3.92857142857
+1511	Hookah Bars	Phoenix	3.7
+1509	Hookah Bars	Las Vegas	3.67948717949
+1508	Hookah Bars	Charlotte	3.5
+1510	Hookah Bars	Madison	3.25
+1507	Hookah Bars	Champaign	3.0
+1513	Horse Boarding	Las Vegas	4.33333333333
+1514	Horse Equipment Shops	Las Vegas	4.25
+1515	Horse Racing	Las Vegas	4.5
+1516	Horse Racing	Phoenix	3.25
+1518	Horseback Riding	Phoenix	4.625
+1517	Horseback Riding	Las Vegas	4.0
+1520	Hospice	Phoenix	5.0
+1519	Hospice	Las Vegas	4.375
+1523	Hospitals	Madison	3.875
+1521	Hospitals	Charlotte	3.5
+1525	Hospitals	Pittsburgh	3.375
+1524	Hospitals	Phoenix	3.27083333333
+1522	Hospitals	Las Vegas	3.1
+1528	Hostels	Phoenix	5.0
+1527	Hostels	Madison	3.5
+1526	Hostels	Las Vegas	2.57142857143
+1529	Hot Air Balloons	Phoenix	4.83333333333
+1533	Hot Dogs	Madison	3.91666666667
+1535	Hot Dogs	Pittsburgh	3.91666666667
+1534	Hot Dogs	Phoenix	3.89534883721
+1530	Hot Dogs	Champaign	3.66666666667
+1531	Hot Dogs	Charlotte	3.63888888889
+1532	Hot Dogs	Las Vegas	3.33561643836
+1538	Hot Pot	Madison	4.5
+1536	Hot Pot	Champaign	4.0
+1537	Hot Pot	Las Vegas	3.7
+1539	Hot Tub & Pool	Las Vegas	3.90909090909
+1540	Hot Tub & Pool	Phoenix	3.66666666667
+1552	Hotels	Pittsburgh	3.41176470588
+1550	Hotels	Madison	3.36885245902
+1548	Hotels	Charlotte	3.10526315789
+1547	Hotels	Champaign	3.0625
+1549	Hotels	Las Vegas	3.05178571429
+1551	Hotels	Phoenix	2.80120481928
+1546	Hotels & Travel	Pittsburgh	3.43820224719
+1544	Hotels & Travel	Madison	3.37647058824
+1543	Hotels & Travel	Las Vegas	3.13987138264
+1542	Hotels & Travel	Charlotte	3.12085308057
+1545	Hotels & Travel	Phoenix	2.98407643312
+1541	Hotels & Travel	Champaign	2.96153846154
+1554	Hungarian	Pittsburgh	4.0
+1553	Hungarian	Las Vegas	3.5
+1555	Hypnosis/Hypnotherapy	Las Vegas	5.0
+1556	Hypnosis/Hypnotherapy	Phoenix	4.0
+1557	IT Services & Computer Repair	Champaign	4.5
+1561	IT Services & Computer Repair	Phoenix	4.25
+1562	IT Services & Computer Repair	Pittsburgh	4.25
+1559	IT Services & Computer Repair	Las Vegas	4.1338028169
+1560	IT Services & Computer Repair	Madison	3.7
+1558	IT Services & Computer Repair	Charlotte	3.65384615385
+1568	Ice Cream & Frozen Yogurt	Pittsburgh	3.73333333333
+1564	Ice Cream & Frozen Yogurt	Charlotte	3.70833333333
+1565	Ice Cream & Frozen Yogurt	Las Vegas	3.70153061224
+1566	Ice Cream & Frozen Yogurt	Madison	3.6875
+1567	Ice Cream & Frozen Yogurt	Phoenix	3.67424242424
+1563	Ice Cream & Frozen Yogurt	Champaign	3.375
+1569	Immigration Law	Las Vegas	4.75
+1573	Indian	Madison	3.71875
+1572	Indian	Las Vegas	3.64473684211
+1575	Indian	Pittsburgh	3.51851851852
+1571	Indian	Charlotte	3.35
+1574	Indian	Phoenix	3.2962962963
+1570	Indian	Champaign	3.28571428571
+1576	Indonesian	Madison	3.83333333333
+1577	Insulation Installation	Phoenix	4.33333333333
+1578	Insurance	Champaign	5.0
+1583	Insurance	Pittsburgh	4.5
+1580	Insurance	Las Vegas	4.02142857143
+1582	Insurance	Phoenix	3.75714285714
+1581	Insurance	Madison	3.5
+1579	Insurance	Charlotte	3.35714285714
+1587	Interior Design	Phoenix	4.4
+1585	Interior Design	Las Vegas	4.06666666667
+1584	Interior Design	Charlotte	4.05555555556
+1586	Interior Design	Madison	4.0
+1588	Interior Design	Pittsburgh	2.5
+1589	Internal Medicine	Charlotte	4.125
+1592	Internal Medicine	Phoenix	3.41176470588
+1590	Internal Medicine	Las Vegas	3.09782608696
+1591	Internal Medicine	Madison	2.0
+1593	Internet Cafes	Charlotte	4.5
+1596	Internet Cafes	Phoenix	4.5
+1594	Internet Cafes	Las Vegas	3.5
+1595	Internet Cafes	Madison	3.5
+1601	Internet Service Providers	Pittsburgh	2.5
+1597	Internet Service Providers	Charlotte	2.46153846154
+1598	Internet Service Providers	Las Vegas	2.38888888889
+1599	Internet Service Providers	Madison	2.16666666667
+1600	Internet Service Providers	Phoenix	2.08928571429
+1604	Investing	Phoenix	5.0
+1603	Investing	Las Vegas	2.8
+1602	Investing	Charlotte	2.5
+1611	Irish	Phoenix	3.57142857143
+1607	Irish	Champaign	3.5
+1608	Irish	Charlotte	3.5
+1612	Irish	Pittsburgh	3.375
+1610	Irish	Madison	3.3
+1609	Irish	Las Vegas	3.1875
+1606	Irish Pub	Las Vegas	3.75
+1605	Irish Pub	Charlotte	3.33333333333
+1614	Irrigation	Phoenix	3.71428571429
+1613	Irrigation	Las Vegas	3.66666666667
+1619	Italian	Phoenix	3.57881773399
+1617	Italian	Las Vegas	3.55755395683
+1615	Italian	Champaign	3.5
+1620	Italian	Pittsburgh	3.48897058824
+1618	Italian	Madison	3.40625
+1616	Italian	Charlotte	3.37962962963
+1623	Japanese	Las Vegas	3.73
+1626	Japanese	Pittsburgh	3.61290322581
+1624	Japanese	Madison	3.60869565217
+1622	Japanese	Charlotte	3.54761904762
+1625	Japanese	Phoenix	3.47945205479
+1621	Japanese	Champaign	3.1
+1628	Jazz & Blues	Las Vegas	3.75
+1629	Jazz & Blues	Madison	3.75
+1627	Jazz & Blues	Charlotte	3.625
+1630	Jazz & Blues	Phoenix	3.33333333333
+1631	Jazz & Blues	Pittsburgh	3.16666666667
+1632	Jet Skis	Phoenix	4.5
+1639	Jewelry	Champaign	4.16666666667
+1642	Jewelry	Madison	4.10526315789
+1643	Jewelry	Phoenix	3.98571428571
+1644	Jewelry	Pittsburgh	3.975
+1640	Jewelry	Charlotte	3.92222222222
+1641	Jewelry	Las Vegas	3.8940397351
+1633	Jewelry Repair	Champaign	5.0
+1636	Jewelry Repair	Madison	5.0
+1638	Jewelry Repair	Pittsburgh	4.83333333333
+1634	Jewelry Repair	Charlotte	4.625
+1635	Jewelry Repair	Las Vegas	4.1
+1637	Jewelry Repair	Phoenix	3.4375
+1650	Juice Bars & Smoothies	Pittsburgh	4.275
+1646	Juice Bars & Smoothies	Charlotte	4.04166666667
+1648	Juice Bars & Smoothies	Madison	4.0
+1649	Juice Bars & Smoothies	Phoenix	3.89583333333
+1645	Juice Bars & Smoothies	Champaign	3.75
+1647	Juice Bars & Smoothies	Las Vegas	3.74275362319
+1652	Junk Removal & Hauling	Las Vegas	4.41666666667
+1654	Junk Removal & Hauling	Pittsburgh	4.33333333333
+1653	Junk Removal & Hauling	Phoenix	4.16666666667
+1651	Junk Removal & Hauling	Charlotte	3.25
+1659	Karaoke	Phoenix	3.67647058824
+1655	Karaoke	Champaign	3.66666666667
+1657	Karaoke	Las Vegas	3.65
+1660	Karaoke	Pittsburgh	3.6
+1656	Karaoke	Charlotte	3.4
+1658	Karaoke	Madison	3.0
+1665	Keys & Locksmiths	Phoenix	4.57407407407
+1666	Keys & Locksmiths	Pittsburgh	4.5
+1662	Keys & Locksmiths	Charlotte	4.33333333333
+1663	Keys & Locksmiths	Las Vegas	3.84
+1661	Keys & Locksmiths	Champaign	3.5
+1664	Keys & Locksmiths	Madison	2.33333333333
+1670	Kids Activities	Pittsburgh	5.0
+1668	Kids Activities	Las Vegas	3.875
+1667	Kids Activities	Charlotte	3.5
+1669	Kids Activities	Phoenix	3.5
+1674	Kitchen & Bath	Phoenix	3.93181818182
+1671	Kitchen & Bath	Charlotte	3.89285714286
+1672	Kitchen & Bath	Las Vegas	3.86046511628
+1675	Kitchen & Bath	Pittsburgh	3.625
+1673	Kitchen & Bath	Madison	3.5
+1676	Kitchen Incubators	Phoenix	3.5
+1677	Knife Sharpening	Phoenix	4.66666666667
+1682	Knitting Supplies	Pittsburgh	4.5
+1679	Knitting Supplies	Las Vegas	3.6875
+1681	Knitting Supplies	Phoenix	3.5
+1678	Knitting Supplies	Charlotte	3.4
+1680	Knitting Supplies	Madison	2.83333333333
+1684	Korean	Charlotte	3.75
+1685	Korean	Las Vegas	3.70987654321
+1686	Korean	Madison	3.6
+1688	Korean	Pittsburgh	3.59090909091
+1683	Korean	Champaign	3.5
+1687	Korean	Phoenix	3.5
+1689	Kosher	Champaign	5.0
+1692	Kosher	Phoenix	3.75
+1691	Kosher	Las Vegas	3.65384615385
+1690	Kosher	Charlotte	3.25
+1693	Kosher	Pittsburgh	3.0
+1694	Laboratory Testing	Charlotte	4.5
+1695	Laboratory Testing	Las Vegas	3.21875
+1696	Laboratory Testing	Phoenix	3.0
+1698	Lactation Services	Las Vegas	5.0
+1699	Lactation Services	Phoenix	5.0
+1697	Lactation Services	Charlotte	4.25
+1700	Lakes	Madison	4.5
+1703	Landmarks & Historical Buildings	Madison	4.75
+1705	Landmarks & Historical Buildings	Pittsburgh	4.53333333333
+1702	Landmarks & Historical Buildings	Las Vegas	4.125
+1704	Landmarks & Historical Buildings	Phoenix	4.07692307692
+1701	Landmarks & Historical Buildings	Charlotte	4.0
+1707	Landscape Architects	Phoenix	4.57142857143
+1706	Landscape Architects	Las Vegas	4.0
+1711	Landscaping	Madison	4.5
+1712	Landscaping	Phoenix	3.94444444444
+1710	Landscaping	Las Vegas	3.73728813559
+1709	Landscaping	Charlotte	3.7
+1708	Landscaping	Champaign	1.0
+1713	Language Schools	Las Vegas	5.0
+1715	Laotian	Las Vegas	4.5
+1714	Laotian	Charlotte	4.0
+1717	Laotian	Phoenix	4.0
+1716	Laotian	Madison	3.75
+1720	Laser Eye Surgery/Lasik	Madison	4.25
+1719	Laser Eye Surgery/Lasik	Las Vegas	3.88461538462
+1721	Laser Eye Surgery/Lasik	Phoenix	3.71428571429
+1718	Laser Eye Surgery/Lasik	Charlotte	3.3
+1723	Laser Hair Removal	Las Vegas	4.32
+1725	Laser Hair Removal	Phoenix	4.11111111111
+1722	Laser Hair Removal	Charlotte	3.75
+1724	Laser Hair Removal	Madison	3.5
+1726	Laser Hair Removal	Pittsburgh	3.5
+1727	Laser Tag	Las Vegas	4.4
+1729	Laser Tag	Phoenix	4.0
+1728	Laser Tag	Madison	3.5
+1735	Latin American	Pittsburgh	4.13636363636
+1730	Latin American	Champaign	4.0
+1734	Latin American	Phoenix	3.88636363636
+1733	Latin American	Madison	3.875
+1732	Latin American	Las Vegas	3.83333333333
+1731	Latin American	Charlotte	3.81818181818
+1736	Lawyers	Charlotte	4.6
+1738	Lawyers	Phoenix	4.48780487805
+1737	Lawyers	Las Vegas	4.3734939759
+1740	Leather Goods	Las Vegas	4.11538461538
+1742	Leather Goods	Phoenix	3.7
+1739	Leather Goods	Charlotte	3.5
+1741	Leather Goods	Madison	3.5
+1744	Lebanese	Madison	4.0
+1745	Lebanese	Phoenix	4.0
+1746	Lebanese	Pittsburgh	3.8
+1743	Lebanese	Las Vegas	3.5
+1749	Legal Services	Phoenix	5.0
+1748	Legal Services	Las Vegas	4.5
+1747	Legal Services	Charlotte	4.0
+1753	Leisure Centers	Pittsburgh	4.5
+1750	Leisure Centers	Las Vegas	4.25
+1751	Leisure Centers	Madison	4.0
+1752	Leisure Centers	Phoenix	4.0
+1754	Libraries	Champaign	4.5
+1759	Libraries	Pittsburgh	4.5
+1757	Libraries	Madison	4.25
+1756	Libraries	Las Vegas	4.05882352941
+1755	Libraries	Charlotte	3.88461538462
+1758	Libraries	Phoenix	3.79166666667
+1760	Lice Services	Phoenix	5.0
+1764	Life Coach	Pittsburgh	5.0
+1762	Life Coach	Las Vegas	4.78571428571
+1763	Life Coach	Phoenix	4.66666666667
+1761	Life Coach	Charlotte	1.0
+1765	Life Insurance	Las Vegas	4.83333333333
+1770	Lighting Fixtures & Equipment	Phoenix	3.91666666667
+1768	Lighting Fixtures & Equipment	Las Vegas	3.79166666667
+1769	Lighting Fixtures & Equipment	Madison	3.75
+1767	Lighting Fixtures & Equipment	Charlotte	3.25
+1766	Lighting Fixtures & Equipment	Champaign	2.5
+1771	Lighting Fixtures & Equipment	Pittsburgh	2.5
+1772	Limos	Champaign	4.5
+1776	Limos	Pittsburgh	4.375
+1773	Limos	Charlotte	4.14285714286
+1775	Limos	Phoenix	3.5
+1774	Limos	Las Vegas	3.24285714286
+1778	Lingerie	Las Vegas	4.12068965517
+1779	Lingerie	Madison	3.8
+1781	Lingerie	Pittsburgh	3.66666666667
+1780	Lingerie	Phoenix	3.45
+1777	Lingerie	Charlotte	3.1
+1785	Live/Raw Food	Pittsburgh	4.5
+1782	Live/Raw Food	Charlotte	4.25
+1784	Live/Raw Food	Phoenix	4.0
+1783	Live/Raw Food	Las Vegas	3.875
+1787	Livestock Feed & Supply	Phoenix	5.0
+1786	Livestock Feed & Supply	Las Vegas	4.25
+1789	Local Flavor	Charlotte	4.5625
+1791	Local Flavor	Madison	4.5
+1792	Local Flavor	Phoenix	4.44827586207
+1793	Local Flavor	Pittsburgh	4.44444444444
+1790	Local Flavor	Las Vegas	3.93103448276
+1788	Local Flavor	Champaign	2.5
+1794	Local Services	Champaign	3.88235294118
+1798	Local Services	Phoenix	3.81542056075
+1796	Local Services	Las Vegas	3.79508196721
+1799	Local Services	Pittsburgh	3.79133858268
+1795	Local Services	Charlotte	3.70256410256
+1797	Local Services	Madison	3.65584415584
+1804	Lounges	Phoenix	3.72641509434
+1802	Lounges	Las Vegas	3.69377990431
+1803	Lounges	Madison	3.66666666667
+1801	Lounges	Charlotte	3.55813953488
+1800	Lounges	Champaign	3.42857142857
+1805	Lounges	Pittsburgh	3.30555555556
+1806	Luggage	Charlotte	5.0
+1808	Luggage	Phoenix	4.0
+1807	Luggage	Las Vegas	3.625
+1809	Luggage	Pittsburgh	2.5
+1810	Macarons	Las Vegas	4.5
+1811	Macarons	Phoenix	4.5
+1812	Macarons	Pittsburgh	4.0
+1813	Machine & Tool Rental	Phoenix	4.5
+1815	Magicians	Phoenix	5.0
+1814	Magicians	Las Vegas	4.44444444444
+1816	Mailbox Centers	Las Vegas	4.625
+1817	Mailbox Centers	Phoenix	3.5
+1822	Makeup Artists	Pittsburgh	5.0
+1821	Makeup Artists	Phoenix	4.69642857143
+1819	Makeup Artists	Las Vegas	4.5495049505
+1818	Makeup Artists	Charlotte	4.5
+1820	Makeup Artists	Madison	3.16666666667
+1825	Malaysian	Madison	5.0
+1823	Malaysian	Champaign	4.0
+1824	Malaysian	Las Vegas	3.66666666667
+1826	Malaysian	Pittsburgh	3.5
+1827	Marinas	Phoenix	2.5
+1830	Marketing	Madison	5.0
+1829	Marketing	Las Vegas	4.47916666667
+1831	Marketing	Phoenix	4.38235294118
+1828	Marketing	Charlotte	3.875
+1834	Martial Arts	Madison	5.0
+1836	Martial Arts	Pittsburgh	4.75
+1835	Martial Arts	Phoenix	4.66666666667
+1833	Martial Arts	Las Vegas	4.61538461538
+1832	Martial Arts	Charlotte	4.27777777778
+1840	Masonry/Concrete	Pittsburgh	5.0
+1839	Masonry/Concrete	Phoenix	4.2
+1837	Masonry/Concrete	Las Vegas	4.1875
+1838	Masonry/Concrete	Madison	3.5
+1844	Mass Media	Madison	4.0
+1843	Mass Media	Las Vegas	3.8
+1842	Mass Media	Charlotte	3.61111111111
+1845	Mass Media	Phoenix	3.39130434783
+1846	Mass Media	Pittsburgh	3.25
+1841	Mass Media	Champaign	2.0
+1856	Massage	Champaign	4.5
+1860	Massage	Phoenix	4.36666666667
+1861	Massage	Pittsburgh	4.26315789474
+1857	Massage	Charlotte	4.02941176471
+1859	Massage	Madison	4.02272727273
+1858	Massage	Las Vegas	3.95187165775
+1847	Massage Schools	Charlotte	4.5
+1848	Massage Schools	Las Vegas	4.25
+1849	Massage Schools	Phoenix	3.5
+1850	Massage Therapy	Champaign	5.0
+1854	Massage Therapy	Phoenix	4.78571428571
+1852	Massage Therapy	Las Vegas	4.6171875
+1853	Massage Therapy	Madison	4.5
+1851	Massage Therapy	Charlotte	4.27777777778
+1855	Massage Therapy	Pittsburgh	4.1
+1862	Matchmakers	Las Vegas	1.0
+1864	Maternity Wear	Charlotte	4.5
+1865	Maternity Wear	Las Vegas	3.75
+1866	Maternity Wear	Phoenix	3.33333333333
+1863	Maternity Wear	Champaign	2.0
+1867	Mattresses	Champaign	4.5
+1869	Mattresses	Las Vegas	4.06818181818
+1871	Mattresses	Phoenix	3.81818181818
+1868	Mattresses	Charlotte	3.73333333333
+1870	Mattresses	Madison	3.25
+1872	Mattresses	Pittsburgh	3.0
+1873	Meat Shops	Champaign	5.0
+1876	Meat Shops	Madison	4.5
+1878	Meat Shops	Pittsburgh	4.28571428571
+1875	Meat Shops	Las Vegas	4.125
+1877	Meat Shops	Phoenix	4.08333333333
+1874	Meat Shops	Charlotte	3.85
+1880	Medical Centers	Charlotte	3.71428571429
+1884	Medical Centers	Pittsburgh	3.41666666667
+1882	Medical Centers	Madison	3.4
+1883	Medical Centers	Phoenix	3.3359375
+1881	Medical Centers	Las Vegas	3.20618556701
+1879	Medical Centers	Champaign	2.75
+1887	Medical Spas	Madison	5.0
+1885	Medical Spas	Charlotte	4.36363636364
+1888	Medical Spas	Phoenix	4.30357142857
+1886	Medical Spas	Las Vegas	4.22641509434
+1889	Medical Spas	Pittsburgh	3.5
+1890	Medical Supplies	Charlotte	4.5
+1891	Medical Supplies	Las Vegas	3.44444444444
+1892	Medical Supplies	Madison	2.5
+1893	Medical Supplies	Phoenix	2.5
+1895	Medical Transportation	Las Vegas	3.5
+1894	Medical Transportation	Charlotte	1.0
+1896	Medical Transportation	Phoenix	1.0
+1897	Meditation Centers	Las Vegas	4.83333333333
+1903	Mediterranean	Pittsburgh	3.94285714286
+1902	Mediterranean	Phoenix	3.93902439024
+1901	Mediterranean	Madison	3.83333333333
+1900	Mediterranean	Las Vegas	3.82530120482
+1899	Mediterranean	Charlotte	3.75
+1898	Mediterranean	Champaign	3.64285714286
+1909	Men's Clothing	Pittsburgh	3.79545454545
+1906	Men's Clothing	Las Vegas	3.79245283019
+1908	Men's Clothing	Phoenix	3.52564102564
+1907	Men's Clothing	Madison	3.46666666667
+1905	Men's Clothing	Charlotte	3.45744680851
+1904	Men's Clothing	Champaign	3.16666666667
+1910	Men's Hair Salons	Champaign	4.5
+1911	Men's Hair Salons	Charlotte	4.5
+1914	Men's Hair Salons	Phoenix	4.42307692308
+1912	Men's Hair Salons	Las Vegas	4.4
+1913	Men's Hair Salons	Madison	4.25
+1915	Men's Hair Salons	Pittsburgh	4.16666666667
+1917	Metal Fabricators	Phoenix	4.5
+1916	Metal Fabricators	Las Vegas	4.25
+1922	Mexican	Phoenix	3.56479690522
+1920	Mexican	Las Vegas	3.5298245614
+1919	Mexican	Charlotte	3.45422535211
+1923	Mexican	Pittsburgh	3.44029850746
+1921	Mexican	Madison	3.35820895522
+1918	Mexican	Champaign	3.34210526316
+1928	Middle Eastern	Phoenix	4.0
+1927	Middle Eastern	Madison	3.92857142857
+1929	Middle Eastern	Pittsburgh	3.88
+1926	Middle Eastern	Las Vegas	3.8
+1925	Middle Eastern	Charlotte	3.68181818182
+1924	Middle Eastern	Champaign	3.375
+1930	Middle Schools & High Schools	Las Vegas	4.10714285714
+1931	Middle Schools & High Schools	Phoenix	3.75
+1932	Midwives	Las Vegas	4.5
+1934	Midwives	Pittsburgh	4.5
+1933	Midwives	Phoenix	4.38888888889
+1937	Mini Golf	Madison	4.0
+1936	Mini Golf	Las Vegas	3.83333333333
+1935	Mini Golf	Charlotte	3.5
+1938	Mini Golf	Phoenix	2.83333333333
+1939	Mini Golf	Pittsburgh	2.5
+1940	Mobile Dent Repair	Charlotte	5.0
+1943	Mobile Dent Repair	Phoenix	5.0
+1941	Mobile Dent Repair	Las Vegas	4.5
+1942	Mobile Dent Repair	Madison	3.5
+1944	Mobile Phone Accessories	Las Vegas	3.0
+1945	Mobile Phone Accessories	Phoenix	2.5
+1946	Mobile Phone Repair	Champaign	5.0
+1949	Mobile Phone Repair	Madison	5.0
+1951	Mobile Phone Repair	Pittsburgh	4.5
+1950	Mobile Phone Repair	Phoenix	4.19565217391
+1948	Mobile Phone Repair	Las Vegas	4.10975609756
+1947	Mobile Phone Repair	Charlotte	3.92857142857
+1957	Mobile Phones	Pittsburgh	3.33333333333
+1954	Mobile Phones	Las Vegas	3.00537634409
+1956	Mobile Phones	Phoenix	2.92063492063
+1953	Mobile Phones	Charlotte	2.77419354839
+1955	Mobile Phones	Madison	2.59090909091
+1952	Mobile Phones	Champaign	2.5
+1958	Modern European	Phoenix	4.5
+1959	Modern European	Pittsburgh	3.75
+1962	Mongolian	Las Vegas	3.75
+1960	Mongolian	Champaign	3.5
+1965	Mongolian	Pittsburgh	3.5
+1961	Mongolian	Charlotte	3.25
+1964	Mongolian	Phoenix	3.16666666667
+1963	Mongolian	Madison	2.83333333333
+1969	Moroccan	Phoenix	4.75
+1967	Moroccan	Las Vegas	4.25
+1966	Moroccan	Charlotte	4.0
+1970	Moroccan	Pittsburgh	3.66666666667
+1968	Moroccan	Madison	3.5
+1971	Mortgage Brokers	Charlotte	3.3
+1973	Mortgage Brokers	Madison	3.3
+1972	Mortgage Brokers	Las Vegas	3.22826086957
+1974	Mortgage Brokers	Phoenix	3.13461538462
+1978	Motorcycle Dealers	Phoenix	4.11111111111
+1976	Motorcycle Dealers	Las Vegas	3.76923076923
+1975	Motorcycle Dealers	Charlotte	3.75
+1977	Motorcycle Dealers	Madison	3.75
+1979	Motorcycle Dealers	Pittsburgh	2.0
+1981	Motorcycle Gear	Phoenix	4.375
+1980	Motorcycle Gear	Las Vegas	4.25
+1983	Motorcycle Rental	Pittsburgh	5.0
+1982	Motorcycle Rental	Las Vegas	4.2
+1984	Motorcycle Repair	Charlotte	4.5
+1987	Motorcycle Repair	Phoenix	4.41666666667
+1986	Motorcycle Repair	Madison	4.0
+1985	Motorcycle Repair	Las Vegas	3.9375
+1989	Mountain Biking	Phoenix	4.5
+1990	Mountain Biking	Pittsburgh	4.5
+1988	Mountain Biking	Charlotte	3.5
+1994	Movers	Madison	4.4
+1993	Movers	Las Vegas	3.84444444444
+1996	Movers	Pittsburgh	3.7
+1992	Movers	Charlotte	3.65
+1995	Movers	Phoenix	3.56
+1991	Movers	Champaign	2.0
+2000	Museums	Madison	4.35714285714
+2002	Museums	Pittsburgh	4.28947368421
+2001	Museums	Phoenix	4.22222222222
+1999	Museums	Las Vegas	4.05357142857
+1998	Museums	Charlotte	3.88888888889
+1997	Museums	Champaign	3.5
+2008	Music & DVDs	Pittsburgh	4.14285714286
+2006	Music & DVDs	Madison	3.88888888889
+2004	Music & DVDs	Charlotte	3.86363636364
+2003	Music & DVDs	Champaign	3.83333333333
+2007	Music & DVDs	Phoenix	3.8
+2005	Music & DVDs	Las Vegas	3.6
+2009	Music Production Services	Las Vegas	5.0
+2013	Music Venues	Madison	3.80952380952
+2015	Music Venues	Pittsburgh	3.7037037037
+2011	Music Venues	Charlotte	3.69230769231
+2012	Music Venues	Las Vegas	3.68695652174
+2014	Music Venues	Phoenix	3.62162162162
+2010	Music Venues	Champaign	3.375
+2020	Musical Instrument Services	Pittsburgh	4.5
+2018	Musical Instrument Services	Madison	4.375
+2017	Musical Instrument Services	Las Vegas	4.35714285714
+2019	Musical Instrument Services	Phoenix	4.08333333333
+2016	Musical Instrument Services	Charlotte	3.5
+2023	Musical Instruments & Teachers	Las Vegas	4.56818181818
+2021	Musical Instruments & Teachers	Champaign	4.5
+2025	Musical Instruments & Teachers	Phoenix	4.275
+2026	Musical Instruments & Teachers	Pittsburgh	4.0
+2024	Musical Instruments & Teachers	Madison	3.625
+2022	Musical Instruments & Teachers	Charlotte	3.375
+2028	Musicians	Phoenix	4.75
+2027	Musicians	Las Vegas	4.33333333333
+2031	Nail Salons	Las Vegas	3.73697916667
+2033	Nail Salons	Phoenix	3.67030567686
+2032	Nail Salons	Madison	3.54411764706
+2034	Nail Salons	Pittsburgh	3.52777777778
+2030	Nail Salons	Charlotte	3.46153846154
+2029	Nail Salons	Champaign	3.42857142857
+2036	Nanny Services	Phoenix	4.75
+2035	Nanny Services	Las Vegas	4.66666666667
+2037	Naturopathic/Holistic	Charlotte	5.0
+2039	Naturopathic/Holistic	Madison	5.0
+2040	Naturopathic/Holistic	Phoenix	4.63333333333
+2038	Naturopathic/Holistic	Las Vegas	4.61764705882
+2041	Neurologist	Las Vegas	3.7
+2042	Neurologist	Phoenix	3.41666666667
+2046	Newspapers & Magazines	Pittsburgh	4.16666666667
+2045	Newspapers & Magazines	Phoenix	4.0
+2044	Newspapers & Magazines	Las Vegas	3.5
+2043	Newspapers & Magazines	Charlotte	2.66666666667
+2049	Nightlife	Las Vegas	3.58382978723
+2051	Nightlife	Phoenix	3.56041666667
+2052	Nightlife	Pittsburgh	3.50283286119
+2050	Nightlife	Madison	3.47867298578
+2048	Nightlife	Charlotte	3.444
+2047	Nightlife	Champaign	3.33
+2054	Notaries	Charlotte	3.94444444444
+2055	Notaries	Las Vegas	3.6875
+2058	Notaries	Pittsburgh	3.66666666667
+2057	Notaries	Phoenix	3.26923076923
+2056	Notaries	Madison	3.16666666667
+2053	Notaries	Champaign	3.0
+2059	Nurse Practitioner	Las Vegas	4.0
+2064	Nurseries & Gardening	Pittsburgh	4.2
+2063	Nurseries & Gardening	Phoenix	4.11428571429
+2060	Nurseries & Gardening	Charlotte	3.73076923077
+2062	Nurseries & Gardening	Madison	3.58333333333
+2061	Nurseries & Gardening	Las Vegas	3.56818181818
+2066	Nutritionists	Madison	5.0
+2068	Nutritionists	Pittsburgh	5.0
+2067	Nutritionists	Phoenix	4.73333333333
+2065	Nutritionists	Las Vegas	4.18421052632
+2069	Observatories	Las Vegas	3.5
+2074	Obstetricians & Gynecologists	Pittsburgh	4.35714285714
+2072	Obstetricians & Gynecologists	Madison	4.0
+2071	Obstetricians & Gynecologists	Las Vegas	3.38775510204
+2073	Obstetricians & Gynecologists	Phoenix	3.30357142857
+2070	Obstetricians & Gynecologists	Charlotte	3.3
+2076	Occupational Therapy	Phoenix	4.5
+2075	Occupational Therapy	Las Vegas	3.25
+2079	Office Cleaning	Madison	4.16666666667
+2078	Office Cleaning	Las Vegas	4.07142857143
+2081	Office Cleaning	Pittsburgh	4.0
+2080	Office Cleaning	Phoenix	3.875
+2077	Office Cleaning	Charlotte	3.2
+2083	Office Equipment	Las Vegas	3.39285714286
+2084	Office Equipment	Madison	3.375
+2082	Office Equipment	Charlotte	3.25
+2085	Office Equipment	Phoenix	3.25
+2086	Office Equipment	Pittsburgh	2.5
+2087	Officiants	Las Vegas	4.5
+2088	Officiants	Phoenix	3.0
+2091	Oil Change Stations	Las Vegas	3.70618556701
+2089	Oil Change Stations	Champaign	3.66666666667
+2093	Oil Change Stations	Phoenix	3.55263157895
+2090	Oil Change Stations	Charlotte	3.53125
+2092	Oil Change Stations	Madison	3.29166666667
+2094	Oil Change Stations	Pittsburgh	3.125
+2096	Oncologist	Phoenix	3.5
+2095	Oncologist	Las Vegas	3.0
+2098	Opera & Ballet	Las Vegas	5.0
+2100	Opera & Ballet	Pittsburgh	4.25
+2097	Opera & Ballet	Charlotte	4.0
+2099	Opera & Ballet	Phoenix	3.83333333333
+2102	Ophthalmologists	Las Vegas	3.60869565217
+2104	Ophthalmologists	Phoenix	3.29411764706
+2101	Ophthalmologists	Charlotte	3.07142857143
+2103	Ophthalmologists	Madison	2.66666666667
+2105	Ophthalmologists	Pittsburgh	2.5
+2108	Optometrists	Las Vegas	4.03125
+2111	Optometrists	Pittsburgh	3.66666666667
+2107	Optometrists	Charlotte	3.64516129032
+2106	Optometrists	Champaign	3.625
+2110	Optometrists	Phoenix	3.61764705882
+2109	Optometrists	Madison	3.55882352941
+2112	Oral Surgeons	Charlotte	4.33333333333
+2114	Oral Surgeons	Madison	4.25
+2116	Oral Surgeons	Pittsburgh	4.25
+2115	Oral Surgeons	Phoenix	4.05882352941
+2113	Oral Surgeons	Las Vegas	4.01851851852
+2119	Organic Stores	Phoenix	5.0
+2118	Organic Stores	Las Vegas	4.75
+2120	Organic Stores	Pittsburgh	4.5
+2117	Organic Stores	Charlotte	3.75
+2122	Orthodontists	Las Vegas	4.36363636364
+2125	Orthodontists	Pittsburgh	4.25
+2121	Orthodontists	Charlotte	4.08333333333
+2124	Orthodontists	Phoenix	3.9625
+2123	Orthodontists	Madison	3.66666666667
+2128	Orthopedists	Madison	3.5
+2127	Orthopedists	Las Vegas	3.45454545455
+2129	Orthopedists	Phoenix	2.71052631579
+2126	Orthopedists	Charlotte	2.5
+2131	Orthotics	Phoenix	3.5
+2130	Orthotics	Las Vegas	2.5
+2132	Osteopathic Physicians	Las Vegas	4.0
+2137	Outdoor Gear	Phoenix	4.08333333333
+2133	Outdoor Gear	Champaign	4.0
+2135	Outdoor Gear	Las Vegas	3.8
+2136	Outdoor Gear	Madison	3.8
+2138	Outdoor Gear	Pittsburgh	3.75
+2134	Outdoor Gear	Charlotte	3.58823529412
+2142	Outlet Stores	Phoenix	3.61111111111
+2140	Outlet Stores	Las Vegas	3.35106382979
+2139	Outlet Stores	Charlotte	3.33333333333
+2141	Outlet Stores	Madison	3.0
+2143	Outlet Stores	Pittsburgh	2.5
+2144	Oxygen Bars	Las Vegas	3.0
+2145	Paddleboarding	Madison	5.0
+2148	Paint & Sip	Madison	5.0
+2146	Paint & Sip	Charlotte	4.5
+2150	Paint & Sip	Pittsburgh	4.5
+2147	Paint & Sip	Las Vegas	4.125
+2149	Paint & Sip	Phoenix	4.125
+2151	Paint Stores	Las Vegas	3.83333333333
+2153	Paint Stores	Phoenix	3.125
+2152	Paint Stores	Madison	3.0
+2156	Paintball	Phoenix	5.0
+2155	Paintball	Las Vegas	4.125
+2154	Paintball	Charlotte	3.5
+2159	Painters	Madison	4.5
+2158	Painters	Las Vegas	4.22
+2160	Painters	Phoenix	4.13888888889
+2157	Painters	Charlotte	2.5
+2164	Pakistani	Madison	4.0
+2162	Pakistani	Charlotte	3.4
+2166	Pakistani	Pittsburgh	3.33333333333
+2163	Pakistani	Las Vegas	3.22222222222
+2165	Pakistani	Phoenix	3.22222222222
+2161	Pakistani	Champaign	3.0
+2167	Parenting Classes	Las Vegas	5.0
+2169	Parking	Las Vegas	4.25
+2171	Parking	Phoenix	3.26470588235
+2168	Parking	Charlotte	2.85714285714
+2172	Parking	Pittsburgh	2.33333333333
+2170	Parking	Madison	2.0
+2175	Parks	Madison	4.375
+2177	Parks	Pittsburgh	4.32608695652
+2173	Parks	Charlotte	4.171875
+2174	Parks	Las Vegas	3.99444444444
+2176	Parks	Phoenix	3.97
+2180	Party & Event Planning	Las Vegas	4.45588235294
+2183	Party & Event Planning	Pittsburgh	4.22727272727
+2179	Party & Event Planning	Charlotte	4.0625
+2182	Party & Event Planning	Phoenix	3.93055555556
+2181	Party & Event Planning	Madison	3.875
+2178	Party & Event Planning	Champaign	3.83333333333
+2185	Party Bus Rentals	Phoenix	4.25
+2184	Party Bus Rentals	Las Vegas	3.77272727273
+2186	Party Equipment Rentals	Charlotte	5.0
+2188	Party Equipment Rentals	Madison	5.0
+2187	Party Equipment Rentals	Las Vegas	4.55555555556
+2189	Party Equipment Rentals	Phoenix	4.42307692308
+2190	Party Supplies	Champaign	4.5
+2192	Party Supplies	Las Vegas	4.09375
+2194	Party Supplies	Phoenix	4.04166666667
+2193	Party Supplies	Madison	4.0
+2191	Party Supplies	Charlotte	3.08333333333
+2195	Party Supplies	Pittsburgh	3.0
+2196	Pasta Shops	Charlotte	4.5
+2197	Pasta Shops	Madison	4.0
+2200	Pawn Shops	Phoenix	3.7
+2198	Pawn Shops	Las Vegas	3.11904761905
+2199	Pawn Shops	Madison	2.5
+2204	Payroll Services	Pittsburgh	5.0
+2202	Payroll Services	Las Vegas	4.5
+2203	Payroll Services	Phoenix	3.66666666667
+2201	Payroll Services	Charlotte	1.0
+2207	Pediatric Dentists	Madison	4.5
+2206	Pediatric Dentists	Las Vegas	4.22222222222
+2209	Pediatric Dentists	Pittsburgh	3.875
+2205	Pediatric Dentists	Charlotte	3.85714285714
+2208	Pediatric Dentists	Phoenix	3.84090909091
+2212	Pediatricians	Madison	3.75
+2210	Pediatricians	Charlotte	3.6
+2213	Pediatricians	Phoenix	3.425
+2211	Pediatricians	Las Vegas	3.25714285714
+2214	Pedicabs	Phoenix	3.0
+2218	Performing Arts	Madison	4.36363636364
+2219	Performing Arts	Phoenix	4.3
+2216	Performing Arts	Charlotte	4.21739130435
+2220	Performing Arts	Pittsburgh	4.14
+2215	Performing Arts	Champaign	4.0
+2217	Performing Arts	Las Vegas	3.93265306122
+2221	Periodontists	Las Vegas	4.33333333333
+2222	Periodontists	Phoenix	4.15384615385
+2223	Permanent Makeup	Charlotte	4.5
+2224	Permanent Makeup	Las Vegas	4.5
+2225	Permanent Makeup	Phoenix	4.0
+2228	Persian/Iranian	Madison	4.0
+2229	Persian/Iranian	Phoenix	3.875
+2227	Persian/Iranian	Las Vegas	3.76923076923
+2226	Persian/Iranian	Charlotte	3.0
+2230	Persian/Iranian	Pittsburgh	2.0
+2231	Personal Assistants	Las Vegas	5.0
+2232	Personal Assistants	Phoenix	4.0
+2233	Personal Chefs	Champaign	5.0
+2236	Personal Chefs	Madison	5.0
+2237	Personal Chefs	Phoenix	5.0
+2235	Personal Chefs	Las Vegas	4.875
+2234	Personal Chefs	Charlotte	4.5
+2240	Personal Injury Law	Phoenix	4.83333333333
+2239	Personal Injury Law	Las Vegas	4.39189189189
+2238	Personal Injury Law	Charlotte	4.0
+2243	Personal Shopping	Madison	5.0
+2244	Personal Shopping	Phoenix	5.0
+2242	Personal Shopping	Las Vegas	4.75
+2241	Personal Shopping	Charlotte	3.0
+2248	Peruvian	Phoenix	4.5
+2245	Peruvian	Charlotte	4.25
+2246	Peruvian	Las Vegas	3.91666666667
+2247	Peruvian	Madison	3.9
+2249	Peruvian	Pittsburgh	3.8
+2252	Pest Control	Phoenix	4.19512195122
+2251	Pest Control	Las Vegas	4.15217391304
+2250	Pest Control	Charlotte	4.08333333333
+2257	Pet Adoption	Pittsburgh	4.5
+2253	Pet Adoption	Charlotte	4.0
+2255	Pet Adoption	Madison	4.0
+2256	Pet Adoption	Phoenix	3.77272727273
+2254	Pet Adoption	Las Vegas	2.0
+2263	Pet Boarding/Pet Sitting	Pittsburgh	4.5
+2262	Pet Boarding/Pet Sitting	Phoenix	4.37719298246
+2260	Pet Boarding/Pet Sitting	Las Vegas	4.31355932203
+2259	Pet Boarding/Pet Sitting	Charlotte	4.25
+2261	Pet Boarding/Pet Sitting	Madison	4.25
+2258	Pet Boarding/Pet Sitting	Champaign	3.5
+2268	Pet Groomers	Pittsburgh	4.38888888889
+2266	Pet Groomers	Madison	4.03846153846
+2267	Pet Groomers	Phoenix	4.01149425287
+2264	Pet Groomers	Charlotte	3.96875
+2265	Pet Groomers	Las Vegas	3.95
+2274	Pet Services	Pittsburgh	4.47222222222
+2273	Pet Services	Phoenix	4.19620253165
+2272	Pet Services	Madison	4.18181818182
+2270	Pet Services	Charlotte	4.14189189189
+2271	Pet Services	Las Vegas	4.06020942408
+2269	Pet Services	Champaign	3.5
+2280	Pet Stores	Pittsburgh	4.25
+2278	Pet Stores	Madison	4.03125
+2275	Pet Stores	Champaign	4.0
+2279	Pet Stores	Phoenix	3.89166666667
+2277	Pet Stores	Las Vegas	3.86666666667
+2276	Pet Stores	Charlotte	3.66666666667
+2285	Pet Training	Pittsburgh	4.5
+2284	Pet Training	Phoenix	3.87179487179
+2282	Pet Training	Las Vegas	3.83333333333
+2281	Pet Training	Charlotte	3.82142857143
+2283	Pet Training	Madison	3.5
+2289	Pets	Madison	4.30208333333
+2291	Pets	Pittsburgh	4.25675675676
+2290	Pets	Phoenix	4.13382899628
+2287	Pets	Charlotte	4.09459459459
+2288	Pets	Las Vegas	4.03618421053
+2286	Pets	Champaign	3.66666666667
+2292	Pharmacy	Phoenix	2.83333333333
+2293	Photo Booth Rentals	Champaign	5.0
+2294	Photo Booth Rentals	Charlotte	5.0
+2296	Photo Booth Rentals	Phoenix	5.0
+2295	Photo Booth Rentals	Las Vegas	4.84375
+2297	Photo Booth Rentals	Pittsburgh	4.5
+2298	Photographers	Champaign	5.0
+2301	Photographers	Madison	5.0
+2302	Photographers	Phoenix	4.83333333333
+2303	Photographers	Pittsburgh	4.83333333333
+2300	Photographers	Las Vegas	4.51578947368
+2299	Photographers	Charlotte	4.5
+2306	Photography Stores & Services	Madison	4.125
+2307	Photography Stores & Services	Phoenix	4.0
+2305	Photography Stores & Services	Las Vegas	3.6875
+2304	Photography Stores & Services	Charlotte	3.5
+2308	Photography Stores & Services	Pittsburgh	3.5
+2312	Physical Therapy	Pittsburgh	5.0
+2309	Physical Therapy	Charlotte	4.25
+2311	Physical Therapy	Phoenix	4.25
+2310	Physical Therapy	Las Vegas	4.14473684211
+2313	Piano Bars	Madison	3.5
+2314	Piano Services	Las Vegas	4.0
+2315	Piano Services	Phoenix	4.0
+2316	Piano Stores	Madison	4.5
+2317	Piercing	Champaign	4.66666666667
+2319	Piercing	Las Vegas	4.63461538462
+2322	Piercing	Pittsburgh	4.54166666667
+2320	Piercing	Madison	4.5
+2321	Piercing	Phoenix	4.375
+2318	Piercing	Charlotte	3.7
+2323	Pilates	Champaign	5.0
+2326	Pilates	Phoenix	4.94444444444
+2327	Pilates	Pittsburgh	4.66666666667
+2324	Pilates	Charlotte	4.625
+2325	Pilates	Las Vegas	4.51724137931
+2328	Pizza	Champaign	3.58695652174
+2333	Pizza	Pittsburgh	3.40841584158
+2332	Pizza	Phoenix	3.3934169279
+2331	Pizza	Madison	3.34126984127
+2329	Pizza	Charlotte	3.31284916201
+2330	Pizza	Las Vegas	3.24786324786
+2334	Planetarium	Las Vegas	3.5
+2339	Playgrounds	Pittsburgh	4.5
+2337	Playgrounds	Madison	4.125
+2336	Playgrounds	Las Vegas	4.0625
+2338	Playgrounds	Phoenix	4.05555555556
+2335	Playgrounds	Charlotte	4.0
+2343	Plumbing	Phoenix	4.2265625
+2341	Plumbing	Las Vegas	4.1393442623
+2340	Plumbing	Charlotte	4.125
+2342	Plumbing	Madison	4.0625
+2344	Plumbing	Pittsburgh	3.875
+2347	Plus Size Fashion	Phoenix	4.5
+2346	Plus Size Fashion	Las Vegas	4.05555555556
+2345	Plus Size Fashion	Charlotte	2.5
+2350	Podiatrists	Phoenix	4.16666666667
+2349	Podiatrists	Las Vegas	3.8125
+2348	Podiatrists	Charlotte	2.75
+2351	Pole Dancing Classes	Las Vegas	5.0
+2352	Police Departments	Charlotte	4.5
+2355	Police Departments	Pittsburgh	4.0
+2353	Police Departments	Las Vegas	3.45
+2354	Police Departments	Phoenix	3.16666666667
+2357	Polish	Pittsburgh	4.3
+2356	Polish	Phoenix	4.25
+2359	Pool & Billiards	Las Vegas	4.5
+2360	Pool & Billiards	Phoenix	4.25
+2358	Pool & Billiards	Charlotte	2.5
+2362	Pool & Hot Tub Service	Phoenix	4.45833333333
+2361	Pool & Hot Tub Service	Las Vegas	4.28125
+2363	Pool Cleaners	Charlotte	4.75
+2365	Pool Cleaners	Phoenix	4.28571428571
+2364	Pool Cleaners	Las Vegas	3.92
+2367	Pool Halls	Charlotte	4.07142857143
+2371	Pool Halls	Pittsburgh	4.0
+2366	Pool Halls	Champaign	3.83333333333
+2368	Pool Halls	Las Vegas	3.64285714286
+2369	Pool Halls	Madison	3.5
+2370	Pool Halls	Phoenix	3.125
+2372	Pop-up Shops	Charlotte	4.16666666667
+2374	Popcorn Shops	Las Vegas	4.58333333333
+2376	Popcorn Shops	Pittsburgh	4.0
+2373	Popcorn Shops	Charlotte	3.5
+2375	Popcorn Shops	Madison	3.5
+2377	Portuguese	Las Vegas	4.5
+2378	Portuguese	Pittsburgh	4.0
+2381	Post Offices	Madison	3.0
+2379	Post Offices	Charlotte	2.85714285714
+2383	Post Offices	Pittsburgh	2.57142857143
+2382	Post Offices	Phoenix	2.55882352941
+2380	Post Offices	Las Vegas	2.55769230769
+2384	Poutineries	Las Vegas	4.0
+2385	Powder Coating	Las Vegas	4.5
+2386	Powder Coating	Phoenix	4.0
+2388	Preschools	Las Vegas	3.92553191489
+2390	Preschools	Phoenix	3.88709677419
+2387	Preschools	Charlotte	3.5
+2389	Preschools	Madison	2.5
+2391	Pressure Washers	Charlotte	5.0
+2392	Pressure Washers	Las Vegas	4.5
+2393	Pressure Washers	Phoenix	4.5
+2396	Pretzels	Pittsburgh	4.25
+2395	Pretzels	Phoenix	4.0
+2394	Pretzels	Las Vegas	3.36363636364
+2399	Print Media	Las Vegas	3.88888888889
+2400	Print Media	Madison	3.75
+2401	Print Media	Phoenix	3.71428571429
+2398	Print Media	Charlotte	3.0
+2402	Print Media	Pittsburgh	2.83333333333
+2397	Print Media	Champaign	2.0
+2403	Printing Services	Champaign	4.33333333333
+2408	Printing Services	Pittsburgh	3.84615384615
+2405	Printing Services	Las Vegas	3.70283018868
+2406	Printing Services	Madison	3.68181818182
+2407	Printing Services	Phoenix	3.61428571429
+2404	Printing Services	Charlotte	3.53125
+2409	Private Investigation	Las Vegas	5.0
+2410	Private Investigation	Phoenix	5.0
+2411	Private Tutors	Las Vegas	5.0
+2412	Private Tutors	Madison	5.0
+2413	Private Tutors	Phoenix	4.75
+2414	Proctologists	Las Vegas	5.0
+2416	Professional Services	Las Vegas	4.02923076923
+2417	Professional Services	Madison	3.97368421053
+2418	Professional Services	Phoenix	3.88010204082
+2419	Professional Services	Pittsburgh	3.38235294118
+2415	Professional Services	Charlotte	3.25581395349
+2422	Professional Sports Teams	Phoenix	4.33333333333
+2420	Professional Sports Teams	Charlotte	4.0
+2423	Professional Sports Teams	Pittsburgh	4.0
+2421	Professional Sports Teams	Las Vegas	3.83333333333
+2425	Propane	Phoenix	4.5
+2424	Propane	Las Vegas	4.0
+2429	Property Management	Madison	3.66666666667
+2428	Property Management	Las Vegas	2.91428571429
+2431	Property Management	Pittsburgh	2.72222222222
+2430	Property Management	Phoenix	2.65384615385
+2427	Property Management	Charlotte	1.9375
+2426	Property Management	Champaign	1.33333333333
+2432	Prosthetics	Phoenix	4.25
+2433	Psychiatrists	Las Vegas	1.8
+2434	Psychiatrists	Phoenix	1.75
+2435	Psychics & Astrologers	Las Vegas	4.65
+2436	Psychics & Astrologers	Phoenix	4.41666666667
+2437	Psychologists	Las Vegas	3.0
+2438	Pub Food	Las Vegas	3.5
+2439	Public Relations	Las Vegas	5.0
+2445	Public Services & Government	Pittsburgh	4.09459459459
+2443	Public Services & Government	Madison	3.91666666667
+2440	Public Services & Government	Champaign	3.66666666667
+2441	Public Services & Government	Charlotte	3.46739130435
+2442	Public Services & Government	Las Vegas	3.34693877551
+2444	Public Services & Government	Phoenix	3.29375
+2446	Public Transportation	Charlotte	3.55555555556
+2447	Public Transportation	Las Vegas	3.35
+2448	Public Transportation	Phoenix	3.0
+2449	Public Transportation	Pittsburgh	2.0
+2454	Pubs	Phoenix	3.66129032258
+2453	Pubs	Madison	3.6375
+2455	Pubs	Pittsburgh	3.63636363636
+2451	Pubs	Charlotte	3.58771929825
+2452	Pubs	Las Vegas	3.5
+2450	Pubs	Champaign	3.40909090909
+2457	Puerto Rican	Phoenix	4.0
+2456	Puerto Rican	Charlotte	2.5
+2458	Pulmonologist	Las Vegas	2.5
+2459	Pumpkin Patches	Las Vegas	4.0
+2461	RV Dealers	Phoenix	4.0
+2460	RV Dealers	Las Vegas	3.0
+2462	RV Parks	Las Vegas	3.25
+2463	RV Rental	Las Vegas	3.33333333333
+2465	RV Repair	Phoenix	4.5
+2464	RV Repair	Las Vegas	3.5
+2466	Race Tracks	Las Vegas	3.5
+2467	Race Tracks	Phoenix	3.5
+2468	Races & Competitions	Champaign	4.5
+2470	Races & Competitions	Madison	4.5
+2472	Races & Competitions	Pittsburgh	4.5
+2471	Races & Competitions	Phoenix	4.25
+2469	Races & Competitions	Las Vegas	3.6
+2475	Radio Stations	Madison	4.5
+2473	Radio Stations	Charlotte	4.125
+2477	Radio Stations	Pittsburgh	4.0
+2474	Radio Stations	Las Vegas	3.82352941176
+2476	Radio Stations	Phoenix	3.33333333333
+2478	Radiologists	Las Vegas	3.41666666667
+2479	Radiologists	Phoenix	3.0
+2480	Rafting/Kayaking	Charlotte	4.5
+2481	Rafting/Kayaking	Las Vegas	4.5
+2482	Rafting/Kayaking	Phoenix	4.5
+2483	Rafting/Kayaking	Pittsburgh	4.5
+2487	Ramen	Phoenix	4.25
+2485	Ramen	Charlotte	4.0
+2486	Ramen	Las Vegas	3.85714285714
+2488	Ramen	Pittsburgh	3.5
+2484	Ramen	Champaign	2.0
+2503	Real Estate	Charlotte	3.1091954023
+2505	Real Estate	Madison	3.07894736842
+2504	Real Estate	Las Vegas	3.05392156863
+2507	Real Estate	Pittsburgh	3.03333333333
+2506	Real Estate	Phoenix	2.85687022901
+2502	Real Estate	Champaign	2.4375
+2491	Real Estate Agents	Madison	5.0
+2489	Real Estate Agents	Charlotte	4.77777777778
+2493	Real Estate Agents	Pittsburgh	4.5
+2492	Real Estate Agents	Phoenix	4.47826086957
+2490	Real Estate Agents	Las Vegas	4.42307692308
+2494	Real Estate Law	Charlotte	5.0
+2495	Real Estate Law	Las Vegas	4.9375
+2496	Real Estate Law	Phoenix	4.6
+2497	Real Estate Services	Charlotte	4.64285714286
+2498	Real Estate Services	Las Vegas	3.69736842105
+2500	Real Estate Services	Phoenix	3.56
+2501	Real Estate Services	Pittsburgh	3.5
+2499	Real Estate Services	Madison	2.5
+2508	Recording & Rehearsal Studios	Las Vegas	4.9
+2509	Recording & Rehearsal Studios	Phoenix	4.25
+2514	Recreation Centers	Pittsburgh	4.75
+2510	Recreation Centers	Champaign	4.5
+2513	Recreation Centers	Phoenix	4.16666666667
+2512	Recreation Centers	Las Vegas	4.11111111111
+2511	Recreation Centers	Charlotte	3.875
+2517	Recycling Center	Madison	5.0
+2519	Recycling Center	Pittsburgh	4.5
+2518	Recycling Center	Phoenix	4.16666666667
+2516	Recycling Center	Las Vegas	3.5
+2515	Recycling Center	Charlotte	2.5
+2520	Refinishing Services	Phoenix	4.5
+2522	Reflexology	Phoenix	4.66666666667
+2523	Reflexology	Pittsburgh	4.5
+2521	Reflexology	Las Vegas	3.96774193548
+2524	Registration Services	Charlotte	3.5
+2526	Registration Services	Phoenix	3.5
+2525	Registration Services	Las Vegas	2.5
+2528	Rehabilitation Center	Phoenix	4.375
+2527	Rehabilitation Center	Las Vegas	3.1
+2529	Rehabilitation Center	Pittsburgh	1.5
+2531	Reiki	Madison	5.0
+2532	Reiki	Phoenix	4.9375
+2530	Reiki	Las Vegas	4.8125
+2533	Reiki	Pittsburgh	4.5
+2534	Religious Organizations	Charlotte	4.55555555556
+2535	Religious Organizations	Las Vegas	4.46226415094
+2537	Religious Organizations	Phoenix	4.4125
+2538	Religious Organizations	Pittsburgh	4.27272727273
+2536	Religious Organizations	Madison	3.5
+2540	Religious Schools	Phoenix	5.0
+2539	Religious Schools	Las Vegas	4.5
+2541	Resorts	Las Vegas	3.45
+2542	Resorts	Phoenix	3.25
+2548	Restaurants	Pittsburgh	3.5528194147
+2546	Restaurants	Madison	3.48697270471
+2547	Restaurants	Phoenix	3.44284736482
+2545	Restaurants	Las Vegas	3.42292829541
+2544	Restaurants	Charlotte	3.40668080594
+2543	Restaurants	Champaign	3.35101010101
+2549	Retirement Homes	Phoenix	3.5
+2550	Retirement Homes	Pittsburgh	1.5
+2552	Rock Climbing	Madison	5.0
+2553	Rock Climbing	Phoenix	5.0
+2551	Rock Climbing	Las Vegas	4.5
+2554	Rock Climbing	Pittsburgh	3.5
+2555	Rolfing	Phoenix	5.0
+2556	Roofing	Charlotte	3.75
+2558	Roofing	Phoenix	3.625
+2557	Roofing	Las Vegas	3.375
+2560	Rugs	Pittsburgh	5.0
+2559	Rugs	Las Vegas	4.0
+2561	Russian	Las Vegas	4.375
+2562	Russian	Madison	4.0
+2564	Russian	Pittsburgh	4.0
+2563	Russian	Phoenix	3.66666666667
+2569	Salad	Phoenix	3.75
+2567	Salad	Las Vegas	3.64705882353
+2566	Salad	Charlotte	3.4512195122
+2570	Salad	Pittsburgh	3.35416666667
+2568	Salad	Madison	3.26470588235
+2565	Salad	Champaign	2.75
+2572	Salvadoran	Phoenix	4.0
+2571	Salvadoran	Las Vegas	3.88888888889
+2578	Sandwiches	Pittsburgh	3.6268115942
+2577	Sandwiches	Phoenix	3.47406340058
+2574	Sandwiches	Charlotte	3.40182648402
+2575	Sandwiches	Las Vegas	3.37471264368
+2576	Sandwiches	Madison	3.3595505618
+2573	Sandwiches	Champaign	2.95238095238
+2579	Saunas	Las Vegas	4.0
+2580	Scandinavian	Charlotte	4.0
+2587	Screen Printing	Champaign	5.0
+2589	Screen Printing	Madison	5.0
+2591	Screen Printing	Pittsburgh	4.75
+2588	Screen Printing	Las Vegas	4.5
+2590	Screen Printing	Phoenix	3.625
+2581	Screen Printing/T-Shirt Printing	Champaign	5.0
+2584	Screen Printing/T-Shirt Printing	Madison	5.0
+2586	Screen Printing/T-Shirt Printing	Pittsburgh	5.0
+2582	Screen Printing/T-Shirt Printing	Charlotte	4.5
+2585	Screen Printing/T-Shirt Printing	Phoenix	4.46153846154
+2583	Screen Printing/T-Shirt Printing	Las Vegas	4.15625
+2593	Scuba Diving	Phoenix	4.75
+2592	Scuba Diving	Charlotte	3.75
+2603	Seafood	Phoenix	3.72602739726
+2602	Seafood	Madison	3.675
+2601	Seafood	Las Vegas	3.65921787709
+2599	Seafood	Champaign	3.5
+2604	Seafood	Pittsburgh	3.5
+2600	Seafood	Charlotte	3.45384615385
+2596	Seafood Markets	Madison	4.5
+2597	Seafood Markets	Phoenix	4.5
+2598	Seafood Markets	Pittsburgh	4.25
+2594	Seafood Markets	Charlotte	4.13636363636
+2595	Seafood Markets	Las Vegas	3.71428571429
+2606	Security Services	Madison	5.0
+2605	Security Services	Las Vegas	3.7
+2608	Security Systems	Las Vegas	3.7
+2610	Security Systems	Phoenix	3.42307692308
+2609	Security Systems	Madison	2.5
+2611	Security Systems	Pittsburgh	2.5
+2607	Security Systems	Charlotte	1.7
+2617	Self Storage	Pittsburgh	4.16666666667
+2614	Self Storage	Las Vegas	3.83076923077
+2616	Self Storage	Phoenix	3.75510204082
+2613	Self Storage	Charlotte	3.75
+2615	Self Storage	Madison	2.8
+2612	Self Storage	Champaign	2.0
+2619	Septic Services	Phoenix	5.0
+2618	Septic Services	Las Vegas	3.5
+2620	Session Photography	Champaign	5.0
+2623	Session Photography	Madison	5.0
+2625	Session Photography	Pittsburgh	5.0
+2624	Session Photography	Phoenix	4.83870967742
+2622	Session Photography	Las Vegas	4.55434782609
+2621	Session Photography	Charlotte	4.2
+2627	Sewing & Alterations	Charlotte	4.13157894737
+2630	Sewing & Alterations	Phoenix	4.10526315789
+2628	Sewing & Alterations	Las Vegas	4.08108108108
+2629	Sewing & Alterations	Madison	4.0
+2631	Sewing & Alterations	Pittsburgh	3.675
+2626	Sewing & Alterations	Champaign	3.66666666667
+2635	Shades & Blinds	Phoenix	4.275
+2632	Shades & Blinds	Charlotte	4.25
+2633	Shades & Blinds	Las Vegas	3.93333333333
+2634	Shades & Blinds	Madison	1.5
+2636	Shanghainese	Las Vegas	3.625
+2638	Shared Office Spaces	Las Vegas	4.83333333333
+2637	Shared Office Spaces	Charlotte	4.5
+2639	Shared Office Spaces	Phoenix	4.5
+2642	Shaved Ice	Las Vegas	4.45833333333
+2643	Shaved Ice	Phoenix	4.29411764706
+2640	Shaved Ice	Champaign	4.25
+2641	Shaved Ice	Charlotte	4.25
+2644	Shaved Ice	Pittsburgh	4.0
+2645	Shipping Centers	Charlotte	3.61764705882
+2646	Shipping Centers	Las Vegas	3.275
+2647	Shipping Centers	Madison	3.25
+2649	Shipping Centers	Pittsburgh	2.96428571429
+2648	Shipping Centers	Phoenix	2.81818181818
+2654	Shoe Repair	Pittsburgh	4.5
+2650	Shoe Repair	Charlotte	4.31818181818
+2653	Shoe Repair	Phoenix	4.26315789474
+2652	Shoe Repair	Madison	4.0
+2651	Shoe Repair	Las Vegas	3.61904761905
+2659	Shoe Stores	Phoenix	3.77777777778
+2658	Shoe Stores	Madison	3.75
+2660	Shoe Stores	Pittsburgh	3.73076923077
+2656	Shoe Stores	Charlotte	3.72368421053
+2657	Shoe Stores	Las Vegas	3.62580645161
+2655	Shoe Stores	Champaign	3.6
+2672	Shopping	Pittsburgh	3.89267676768
+2667	Shopping	Champaign	3.75
+2669	Shopping	Las Vegas	3.74125611132
+2671	Shopping	Phoenix	3.73709993468
+2670	Shopping	Madison	3.70621468927
+2668	Shopping	Charlotte	3.60375
+2662	Shopping Centers	Charlotte	3.73684210526
+2663	Shopping Centers	Las Vegas	3.39285714286
+2665	Shopping Centers	Phoenix	3.14285714286
+2661	Shopping Centers	Champaign	3.0
+2666	Shopping Centers	Pittsburgh	2.85714285714
+2664	Shopping Centers	Madison	2.625
+2673	Shredding Services	Las Vegas	4.5
+2674	Shutters	Las Vegas	4.2
+2675	Shutters	Phoenix	3.33333333333
+2680	Signmaking	Pittsburgh	3.64285714286
+2677	Signmaking	Las Vegas	3.35185185185
+2678	Signmaking	Madison	3.33333333333
+2679	Signmaking	Phoenix	3.3
+2676	Signmaking	Charlotte	3.16666666667
+2681	Singaporean	Las Vegas	3.5
+2683	Skate Parks	Phoenix	5.0
+2684	Skate Parks	Pittsburgh	5.0
+2682	Skate Parks	Las Vegas	4.0
+2686	Skate Shops	Phoenix	4.75
+2685	Skate Shops	Las Vegas	4.0
+2687	Skating Rinks	Champaign	4.5
+2688	Skating Rinks	Charlotte	4.0
+2692	Skating Rinks	Pittsburgh	3.83333333333
+2689	Skating Rinks	Las Vegas	3.5
+2690	Skating Rinks	Madison	3.25
+2691	Skating Rinks	Phoenix	3.0
+2693	Ski & Snowboard Shops	Pittsburgh	4.0
+2694	Skin Care	Champaign	4.5
+2698	Skin Care	Phoenix	4.40659340659
+2696	Skin Care	Las Vegas	4.31088082902
+2697	Skin Care	Madison	4.23076923077
+2699	Skin Care	Pittsburgh	3.94444444444
+2695	Skin Care	Charlotte	3.9358974359
+2700	Skydiving	Las Vegas	4.5
+2701	Sleep Specialists	Las Vegas	4.0
+2702	Sleep Specialists	Phoenix	3.25
+2703	Smog Check Stations	Charlotte	4.75
+2706	Smog Check Stations	Pittsburgh	4.66666666667
+2705	Smog Check Stations	Phoenix	3.71428571429
+2704	Smog Check Stations	Las Vegas	3.675
+2709	Soccer	Phoenix	4.16666666667
+2707	Soccer	Charlotte	4.0
+2708	Soccer	Las Vegas	3.78571428571
+2712	Social Clubs	Phoenix	4.5
+2711	Social Clubs	Las Vegas	4.25
+2713	Social Clubs	Pittsburgh	4.25
+2710	Social Clubs	Charlotte	3.66666666667
+2714	Software Development	Las Vegas	3.5
+2716	Solar Installation	Phoenix	4.5
+2715	Solar Installation	Las Vegas	3.70833333333
+2720	Soul Food	Madison	4.0
+2718	Soul Food	Charlotte	3.8125
+2719	Soul Food	Las Vegas	3.76785714286
+2721	Soul Food	Phoenix	3.60714285714
+2717	Soul Food	Champaign	3.5
+2722	Soul Food	Pittsburgh	3.4
+2727	Soup	Phoenix	3.58333333333
+2724	Soup	Charlotte	3.46428571429
+2725	Soup	Las Vegas	3.4375
+2728	Soup	Pittsburgh	3.27777777778
+2726	Soup	Madison	3.07142857143
+2723	Soup	Champaign	2.5
+2730	Southern	Charlotte	3.63846153846
+2732	Southern	Madison	3.625
+2733	Southern	Phoenix	3.625
+2731	Southern	Las Vegas	3.48484848485
+2734	Southern	Pittsburgh	3.33333333333
+2729	Southern	Champaign	3.16666666667
+2736	Souvenir Shops	Pittsburgh	4.5
+2735	Souvenir Shops	Las Vegas	3.0
+2741	Spanish	Phoenix	4.0
+2739	Spanish	Las Vegas	3.83333333333
+2738	Spanish	Charlotte	3.77272727273
+2742	Spanish	Pittsburgh	3.75
+2737	Spanish	Champaign	3.5
+2740	Spanish	Madison	3.25
+2744	Special Education	Pittsburgh	4.25
+2743	Special Education	Las Vegas	3.16666666667
+2748	Specialty Food	Madison	4.21794871795
+2745	Specialty Food	Champaign	4.2
+2749	Specialty Food	Phoenix	4.16666666667
+2750	Specialty Food	Pittsburgh	4.12711864407
+2747	Specialty Food	Las Vegas	3.98058252427
+2746	Specialty Food	Charlotte	3.90425531915
+2756	Specialty Schools	Pittsburgh	4.375
+2753	Specialty Schools	Las Vegas	4.31081081081
+2755	Specialty Schools	Phoenix	4.24285714286
+2754	Specialty Schools	Madison	4.11111111111
+2752	Specialty Schools	Charlotte	4.07142857143
+2751	Specialty Schools	Champaign	3.5
+2758	Speech Therapists	Phoenix	4.5
+2757	Speech Therapists	Las Vegas	3.25
+2759	Spine Surgeons	Las Vegas	3.0
+2765	Sporting Goods	Pittsburgh	4.23076923077
+2763	Sporting Goods	Madison	4.0
+2764	Sporting Goods	Phoenix	3.98351648352
+2762	Sporting Goods	Las Vegas	3.81034482759
+2761	Sporting Goods	Charlotte	3.77450980392
+2760	Sporting Goods	Champaign	3.08333333333
+2768	Sports Bars	Las Vegas	3.43396226415
+2770	Sports Bars	Phoenix	3.23451327434
+2771	Sports Bars	Pittsburgh	3.2
+2769	Sports Bars	Madison	3.13793103448
+2767	Sports Bars	Charlotte	3.12837837838
+2766	Sports Bars	Champaign	2.75
+2772	Sports Clubs	Charlotte	3.91666666667
+2773	Sports Clubs	Las Vegas	3.91666666667
+2774	Sports Clubs	Phoenix	3.10714285714
+2775	Sports Clubs	Pittsburgh	3.0
+2776	Sports Medicine	Charlotte	5.0
+2779	Sports Medicine	Pittsburgh	5.0
+2778	Sports Medicine	Phoenix	3.83333333333
+2777	Sports Medicine	Las Vegas	3.66666666667
+2784	Sports Wear	Phoenix	3.81818181818
+2783	Sports Wear	Madison	3.75
+2782	Sports Wear	Las Vegas	3.74489795918
+2781	Sports Wear	Charlotte	3.5
+2785	Sports Wear	Pittsburgh	3.38888888889
+2780	Sports Wear	Champaign	2.9
+2789	Spray Tanning	Phoenix	4.86363636364
+2787	Spray Tanning	Las Vegas	4.59615384615
+2788	Spray Tanning	Madison	4.5
+2786	Spray Tanning	Charlotte	4.08333333333
+2790	Sri Lankan	Madison	4.0
+2794	Stadiums & Arenas	Madison	4.375
+2796	Stadiums & Arenas	Pittsburgh	4.21428571429
+2791	Stadiums & Arenas	Champaign	4.0
+2792	Stadiums & Arenas	Charlotte	3.9375
+2795	Stadiums & Arenas	Phoenix	3.63636363636
+2793	Stadiums & Arenas	Las Vegas	3.6
+2799	Steakhouses	Las Vegas	3.74096385542
+2798	Steakhouses	Charlotte	3.52272727273
+2800	Steakhouses	Madison	3.45652173913
+2801	Steakhouses	Phoenix	3.3829787234
+2802	Steakhouses	Pittsburgh	3.36956521739
+2797	Steakhouses	Champaign	3.33333333333
+2803	Street Vendors	Champaign	4.5
+2804	Street Vendors	Charlotte	4.36363636364
+2808	Street Vendors	Pittsburgh	4.35714285714
+2807	Street Vendors	Phoenix	4.28571428571
+2805	Street Vendors	Las Vegas	4.25
+2806	Street Vendors	Madison	4.2
+2810	Sugaring	Phoenix	4.75
+2809	Sugaring	Las Vegas	4.5
+2813	Summer Camps	Phoenix	4.75
+2812	Summer Camps	Las Vegas	4.2
+2811	Summer Camps	Charlotte	4.0
+2814	Supper Clubs	Madison	3.5
+2815	Surf Shop	Las Vegas	4.5
+2816	Surfing	Charlotte	4.5
+2817	Surfing	Las Vegas	3.5
+2819	Surgeons	Phoenix	4.75
+2818	Surgeons	Las Vegas	4.0
+2822	Sushi Bars	Las Vegas	3.75561797753
+2825	Sushi Bars	Pittsburgh	3.67105263158
+2824	Sushi Bars	Phoenix	3.66153846154
+2820	Sushi Bars	Champaign	3.58333333333
+2823	Sushi Bars	Madison	3.5625
+2821	Sushi Bars	Charlotte	3.45070422535
+2828	Swimming Lessons/Schools	Phoenix	4.5
+2826	Swimming Lessons/Schools	Charlotte	4.375
+2827	Swimming Lessons/Schools	Las Vegas	4.2
+2831	Swimming Pools	Madison	5.0
+2832	Swimming Pools	Pittsburgh	4.5
+2829	Swimming Pools	Charlotte	4.0
+2830	Swimming Pools	Las Vegas	3.62222222222
+2836	Swimwear	Pittsburgh	4.5
+2834	Swimwear	Las Vegas	4.0
+2835	Swimwear	Phoenix	3.5
+2833	Swimwear	Charlotte	3.16666666667
+2837	Synagogues	Las Vegas	4.0
+2838	Synagogues	Madison	3.5
+2842	Szechuan	Pittsburgh	3.875
+2840	Szechuan	Las Vegas	3.71428571429
+2841	Szechuan	Phoenix	3.625
+2839	Szechuan	Champaign	2.75
+2843	Tai Chi	Las Vegas	4.83333333333
+2844	Tai Chi	Phoenix	4.5
+2845	Taiwanese	Champaign	4.5
+2846	Taiwanese	Charlotte	3.66666666667
+2847	Taiwanese	Las Vegas	3.63333333333
+2848	Taiwanese	Madison	3.5
+2849	Taiwanese	Pittsburgh	3.5
+2850	Talent Agencies	Las Vegas	4.66666666667
+2855	Tanning	Las Vegas	4.13855421687
+2857	Tanning	Phoenix	3.92857142857
+2854	Tanning	Charlotte	3.8
+2856	Tanning	Madison	3.5
+2858	Tanning	Pittsburgh	3.44444444444
+2851	Tanning Beds	Charlotte	4.0
+2853	Tanning Beds	Phoenix	4.0
+2852	Tanning Beds	Las Vegas	3.375
+2863	Tapas Bars	Phoenix	4.0
+2862	Tapas Bars	Madison	3.83333333333
+2860	Tapas Bars	Charlotte	3.77777777778
+2861	Tapas Bars	Las Vegas	3.73076923077
+2864	Tapas Bars	Pittsburgh	3.35
+2859	Tapas Bars	Champaign	3.0
+2866	Tapas/Small Plates	Las Vegas	3.95238095238
+2868	Tapas/Small Plates	Phoenix	3.83333333333
+2867	Tapas/Small Plates	Madison	3.78571428571
+2865	Tapas/Small Plates	Charlotte	3.75
+2869	Tapas/Small Plates	Pittsburgh	3.5
+2877	Tattoo	Pittsburgh	4.66666666667
+2876	Tattoo	Phoenix	4.64583333333
+2875	Tattoo	Madison	4.58333333333
+2872	Tattoo	Champaign	4.5
+2874	Tattoo	Las Vegas	4.4880952381
+2873	Tattoo	Charlotte	4.22727272727
+2871	Tattoo Removal	Phoenix	4.66666666667
+2870	Tattoo Removal	Las Vegas	4.375
+2878	Tax Law	Phoenix	4.0
+2881	Tax Services	Madison	5.0
+2883	Tax Services	Pittsburgh	5.0
+2879	Tax Services	Charlotte	4.5
+2882	Tax Services	Phoenix	4.09090909091
+2880	Tax Services	Las Vegas	3.87096774194
+2884	Taxidermy	Phoenix	5.0
+2890	Taxis	Pittsburgh	3.83333333333
+2885	Taxis	Champaign	3.0
+2886	Taxis	Charlotte	2.75
+2889	Taxis	Phoenix	2.73529411765
+2888	Taxis	Madison	2.375
+2887	Taxis	Las Vegas	2.01923076923
+2892	Tea Rooms	Madison	4.5
+2894	Tea Rooms	Pittsburgh	4.42857142857
+2893	Tea Rooms	Phoenix	4.35
+2891	Tea Rooms	Las Vegas	3.66666666667
+2895	Teeth Whitening	Las Vegas	4.5
+2896	Television Service Providers	Charlotte	2.57142857143
+2898	Television Service Providers	Madison	2.25
+2897	Television Service Providers	Las Vegas	2.23333333333
+2899	Television Service Providers	Phoenix	1.9375
+2900	Television Service Providers	Pittsburgh	1.5
+2901	Television Stations	Charlotte	3.5
+2902	Television Stations	Las Vegas	3.5
+2903	Television Stations	Phoenix	3.0
+2904	Television Stations	Pittsburgh	2.75
+2908	Tennis	Pittsburgh	4.5
+2905	Tennis	Charlotte	4.3
+2907	Tennis	Phoenix	4.0
+2906	Tennis	Las Vegas	3.8125
+2910	Teppanyaki	Pittsburgh	4.0
+2909	Teppanyaki	Las Vegas	3.5
+2912	Test Preparation	Madison	5.0
+2911	Test Preparation	Las Vegas	4.375
+2913	Test Preparation	Phoenix	2.5
+2914	Tex-Mex	Champaign	3.5
+2918	Tex-Mex	Phoenix	3.12195121951
+2916	Tex-Mex	Las Vegas	3.04807692308
+2915	Tex-Mex	Charlotte	3.02564102564
+2919	Tex-Mex	Pittsburgh	2.875
+2917	Tex-Mex	Madison	2.76923076923
+2922	Thai	Las Vegas	3.80081300813
+2924	Thai	Phoenix	3.75641025641
+2923	Thai	Madison	3.75
+2925	Thai	Pittsburgh	3.72972972973
+2921	Thai	Charlotte	3.63157894737
+2920	Thai	Champaign	3.58333333333
+2926	Thrift Stores	Champaign	4.1
+2929	Thrift Stores	Madison	3.875
+2930	Thrift Stores	Phoenix	3.81132075472
+2931	Thrift Stores	Pittsburgh	3.58333333333
+2928	Thrift Stores	Las Vegas	3.5
+2927	Thrift Stores	Charlotte	3.41666666667
+2932	Ticket Sales	Las Vegas	3.47619047619
+2933	Ticket Sales	Phoenix	2.66666666667
+2934	Tiling	Las Vegas	4.5
+2939	Tires	Phoenix	3.82386363636
+2937	Tires	Las Vegas	3.67647058824
+2935	Tires	Champaign	3.5
+2938	Tires	Madison	3.5
+2936	Tires	Charlotte	3.46666666667
+2940	Tires	Pittsburgh	2.84210526316
+2946	Tobacco Shops	Pittsburgh	4.10714285714
+2943	Tobacco Shops	Las Vegas	4.06944444444
+2945	Tobacco Shops	Phoenix	4.06756756757
+2941	Tobacco Shops	Champaign	4.0
+2942	Tobacco Shops	Charlotte	3.72727272727
+2944	Tobacco Shops	Madison	3.5
+2951	Tours	Pittsburgh	4.22727272727
+2950	Tours	Phoenix	4.2
+2947	Tours	Charlotte	4.0625
+2948	Tours	Las Vegas	4.0
+2949	Tours	Madison	3.875
+2954	Towing	Las Vegas	3.625
+2955	Towing	Madison	3.625
+2957	Towing	Pittsburgh	3.625
+2952	Towing	Champaign	3.5
+2956	Towing	Phoenix	3.38461538462
+2953	Towing	Charlotte	3.28571428571
+2963	Toy Stores	Pittsburgh	4.3125
+2961	Toy Stores	Madison	4.14285714286
+2960	Toy Stores	Las Vegas	3.94871794872
+2962	Toy Stores	Phoenix	3.75
+2959	Toy Stores	Charlotte	3.54166666667
+2958	Toy Stores	Champaign	3.0
+2968	Traditional Chinese Medicine	Pittsburgh	5.0
+2967	Traditional Chinese Medicine	Phoenix	4.94444444444
+2966	Traditional Chinese Medicine	Madison	4.75
+2965	Traditional Chinese Medicine	Las Vegas	4.25
+2964	Traditional Chinese Medicine	Charlotte	4.0
+2971	Train Stations	Phoenix	4.5
+2970	Train Stations	Charlotte	3.5
+2969	Train Stations	Champaign	2.5
+2972	Train Stations	Pittsburgh	2.25
+2973	Trainers	Champaign	5.0
+2975	Trainers	Las Vegas	4.30208333333
+2977	Trainers	Phoenix	4.1978021978
+2974	Trainers	Charlotte	4.12121212121
+2978	Trainers	Pittsburgh	4.10526315789
+2976	Trainers	Madison	4.03125
+2979	Trains	Las Vegas	4.0
+2980	Trampoline Parks	Charlotte	4.5
+2981	Trampoline Parks	Las Vegas	4.0
+2983	Trampoline Parks	Phoenix	3.66666666667
+2982	Trampoline Parks	Madison	3.5
+2984	Translation Services	Charlotte	3.0
+2985	Transmission Repair	Charlotte	5.0
+2989	Transmission Repair	Pittsburgh	4.75
+2988	Transmission Repair	Phoenix	4.38888888889
+2987	Transmission Repair	Madison	4.0
+2986	Transmission Repair	Las Vegas	3.63333333333
+2995	Transportation	Pittsburgh	3.45
+2991	Transportation	Charlotte	3.18181818182
+2990	Transportation	Champaign	3.0
+2994	Transportation	Phoenix	2.9453125
+2992	Transportation	Las Vegas	2.8125
+2993	Transportation	Madison	2.57142857143
+2998	Travel Services	Phoenix	3.95
+2997	Travel Services	Las Vegas	3.56451612903
+2996	Travel Services	Charlotte	3.5
+2999	Travel Services	Pittsburgh	3.0
+3002	Tree Services	Madison	5.0
+3004	Tree Services	Pittsburgh	5.0
+3000	Tree Services	Charlotte	4.5
+3001	Tree Services	Las Vegas	4.0
+3003	Tree Services	Phoenix	3.92105263158
+3005	Trinidadian	Madison	4.0
+3006	Trophy Shops	Las Vegas	4.83333333333
+3012	Truck Rental	Pittsburgh	3.75
+3009	Truck Rental	Las Vegas	3.71428571429
+3011	Truck Rental	Phoenix	3.63333333333
+3008	Truck Rental	Charlotte	3.5
+3010	Truck Rental	Madison	2.7
+3007	Truck Rental	Champaign	2.0
+3017	Turkish	Phoenix	4.5
+3016	Turkish	Madison	4.0
+3018	Turkish	Pittsburgh	4.0
+3014	Turkish	Charlotte	3.75
+3013	Turkish	Champaign	3.5
+3015	Turkish	Las Vegas	3.25
+3019	Tutoring Centers	Las Vegas	4.4
+3020	Tutoring Centers	Phoenix	4.0
+3021	Ukrainian	Las Vegas	4.0
+3022	Uniforms	Charlotte	4.0
+3023	Uniforms	Las Vegas	3.83333333333
+3024	Uniforms	Phoenix	2.875
+3025	Uniforms	Pittsburgh	1.5
+3026	University Housing	Champaign	3.5
+3028	University Housing	Madison	3.5
+3027	University Housing	Las Vegas	2.5
+3029	University Housing	Phoenix	2.5
+3030	Unofficial Yelp Events	Las Vegas	5.0
+3035	Urgent Care	Pittsburgh	3.3
+3034	Urgent Care	Phoenix	3.20833333333
+3031	Urgent Care	Charlotte	3.0
+3032	Urgent Care	Las Vegas	2.65517241379
+3033	Urgent Care	Madison	2.0
+3036	Urologists	Las Vegas	2.75
+3037	Urologists	Phoenix	2.25
+3038	Used, Vintage & Consignment	Champaign	3.9
+3043	Used, Vintage & Consignment	Pittsburgh	3.88461538462
+3039	Used, Vintage & Consignment	Charlotte	3.83333333333
+3042	Used, Vintage & Consignment	Phoenix	3.7868852459
+3040	Used, Vintage & Consignment	Las Vegas	3.77027027027
+3041	Used, Vintage & Consignment	Madison	3.33333333333
+3045	Utilities	Madison	4.5
+3044	Utilities	Las Vegas	2.66666666667
+3046	Utilities	Phoenix	1.2
+3047	Uzbek	Phoenix	3.5
+3048	Uzbek	Pittsburgh	3.0
+3049	Vacation Rental Agents	Las Vegas	2.8
+3050	Vacation Rental Agents	Phoenix	1.0
+3051	Vacation Rentals	Las Vegas	3.3
+3052	Vacation Rentals	Phoenix	2.75
+3053	Valet Services	Charlotte	3.0
+3059	Vape Shops	Pittsburgh	4.625
+3056	Vape Shops	Las Vegas	4.40740740741
+3058	Vape Shops	Phoenix	4.26923076923
+3054	Vape Shops	Champaign	4.0
+3055	Vape Shops	Charlotte	3.9375
+3057	Vape Shops	Madison	2.5
+3065	Vegan	Pittsburgh	4.26923076923
+3063	Vegan	Madison	4.2
+3062	Vegan	Las Vegas	4.19696969697
+3064	Vegan	Phoenix	4.07142857143
+3061	Vegan	Charlotte	3.91666666667
+3060	Vegan	Champaign	3.0
+3067	Vegetarian	Charlotte	4.0
+3068	Vegetarian	Las Vegas	3.98780487805
+3071	Vegetarian	Pittsburgh	3.925
+3070	Vegetarian	Phoenix	3.89705882353
+3066	Vegetarian	Champaign	3.75
+3069	Vegetarian	Madison	3.73333333333
+3072	Vehicle Shipping	Las Vegas	4.5
+3074	Venezuelan	Las Vegas	4.5
+3075	Venezuelan	Madison	4.5
+3073	Venezuelan	Charlotte	4.0
+3076	Venezuelan	Pittsburgh	4.0
+3081	Venues & Event Spaces	Phoenix	3.90983606557
+3078	Venues & Event Spaces	Charlotte	3.85714285714
+3077	Venues & Event Spaces	Champaign	3.83333333333
+3082	Venues & Event Spaces	Pittsburgh	3.8
+3079	Venues & Event Spaces	Las Vegas	3.76704545455
+3080	Venues & Event Spaces	Madison	3.7
+3086	Veterinarians	Madison	4.55263157895
+3087	Veterinarians	Phoenix	4.12209302326
+3084	Veterinarians	Charlotte	4.10975609756
+3088	Veterinarians	Pittsburgh	4.03571428571
+3085	Veterinarians	Las Vegas	3.99425287356
+3083	Veterinarians	Champaign	3.5
+3090	Video Game Stores	Madison	4.5
+3091	Video Game Stores	Phoenix	3.66666666667
+3089	Video Game Stores	Las Vegas	3.5
+3092	Video/Film Production	Charlotte	5.0
+3094	Video/Film Production	Phoenix	5.0
+3093	Video/Film Production	Las Vegas	4.69642857143
+3095	Videographers	Las Vegas	4.65
+3096	Videographers	Phoenix	4.33333333333
+3097	Videos & Video Game Rental	Champaign	5.0
+3100	Videos & Video Game Rental	Madison	4.5
+3102	Videos & Video Game Rental	Pittsburgh	4.0
+3101	Videos & Video Game Rental	Phoenix	3.6875
+3099	Videos & Video Game Rental	Las Vegas	3.52173913043
+3098	Videos & Video Game Rental	Charlotte	3.5
+3104	Vietnamese	Charlotte	3.86538461538
+3103	Vietnamese	Champaign	3.75
+3106	Vietnamese	Madison	3.64285714286
+3108	Vietnamese	Pittsburgh	3.55555555556
+3107	Vietnamese	Phoenix	3.53125
+3105	Vietnamese	Las Vegas	3.50746268657
+3109	Vinyl Records	Champaign	4.5
+3111	Vinyl Records	Las Vegas	4.5
+3114	Vinyl Records	Pittsburgh	4.5
+3112	Vinyl Records	Madison	4.33333333333
+3113	Vinyl Records	Phoenix	4.0625
+3110	Vinyl Records	Charlotte	4.0
+3116	Vitamins & Supplements	Las Vegas	4.16666666667
+3115	Vitamins & Supplements	Charlotte	4.125
+3117	Vitamins & Supplements	Phoenix	3.78571428571
+3118	Vitamins & Supplements	Pittsburgh	2.75
+3119	Vocational & Technical School	Charlotte	4.5
+3120	Vocational & Technical School	Las Vegas	3.83333333333
+3121	Vocational & Technical School	Phoenix	3.5
+3122	Walk-in Clinics	Phoenix	2.5
+3124	Walking Tours	Las Vegas	5.0
+3123	Walking Tours	Charlotte	4.0
+3125	Watch Repair	Champaign	5.0
+3130	Watch Repair	Pittsburgh	4.5
+3126	Watch Repair	Charlotte	4.33333333333
+3129	Watch Repair	Phoenix	4.3125
+3127	Watch Repair	Las Vegas	3.91666666667
+3128	Watch Repair	Madison	3.0
+3131	Watches	Champaign	5.0
+3135	Watches	Phoenix	4.35
+3136	Watches	Pittsburgh	4.25
+3133	Watches	Las Vegas	4.12222222222
+3134	Watches	Madison	4.0
+3132	Watches	Charlotte	3.58333333333
+3138	Water Delivery	Las Vegas	3.33333333333
+3139	Water Delivery	Phoenix	2.66666666667
+3137	Water Delivery	Charlotte	1.0
+3140	Water Heater Installation/Repair	Las Vegas	4.5
+3141	Water Heater Installation/Repair	Phoenix	4.25
+3143	Water Purification Services	Phoenix	4.7
+3142	Water Purification Services	Las Vegas	4.16666666667
+3145	Waxing	Las Vegas	4.55454545455
+3147	Waxing	Phoenix	4.15217391304
+3144	Waxing	Charlotte	4.14285714286
+3146	Waxing	Madison	4.125
+3148	Waxing	Pittsburgh	4.0
+3151	Web Design	Madison	5.0
+3152	Web Design	Phoenix	5.0
+3150	Web Design	Las Vegas	4.75
+3149	Web Design	Charlotte	4.66666666667
+3153	Web Design	Pittsburgh	3.5
+3154	Wedding Chapels	Las Vegas	4.03125
+3155	Wedding Planning	Champaign	4.75
+3156	Wedding Planning	Charlotte	4.75
+3159	Wedding Planning	Phoenix	4.26923076923
+3157	Wedding Planning	Las Vegas	4.26595744681
+3158	Wedding Planning	Madison	4.25
+3163	Weight Loss Centers	Phoenix	4.27083333333
+3162	Weight Loss Centers	Madison	4.25
+3160	Weight Loss Centers	Charlotte	4.1875
+3161	Weight Loss Centers	Las Vegas	4.05555555556
+3164	Weight Loss Centers	Pittsburgh	3.5
+3166	Wheel & Rim Repair	Las Vegas	4.27272727273
+3165	Wheel & Rim Repair	Charlotte	4.16666666667
+3168	Wheel & Rim Repair	Phoenix	4.1
+3167	Wheel & Rim Repair	Madison	2.5
+3172	Wholesale Stores	Pittsburgh	4.5
+3170	Wholesale Stores	Las Vegas	4.0
+3171	Wholesale Stores	Phoenix	3.83333333333
+3169	Wholesale Stores	Charlotte	3.75
+3173	Wigs	Charlotte	4.5
+3174	Wigs	Las Vegas	3.94444444444
+3175	Wigs	Phoenix	3.83333333333
+3176	Wigs	Pittsburgh	3.0
+3178	Window Washing	Las Vegas	4.76923076923
+3177	Window Washing	Charlotte	4.5
+3179	Window Washing	Madison	4.0
+3180	Window Washing	Phoenix	3.625
+3183	Windows Installation	Phoenix	4.31578947368
+3182	Windows Installation	Las Vegas	3.92857142857
+3181	Windows Installation	Charlotte	3.5
+3184	Windshield Installation & Repair	Champaign	5.0
+3187	Windshield Installation & Repair	Madison	4.25
+3185	Windshield Installation & Repair	Charlotte	4.2
+3188	Windshield Installation & Repair	Phoenix	3.89473684211
+3186	Windshield Installation & Repair	Las Vegas	3.79545454545
+3189	Windshield Installation & Repair	Pittsburgh	3.75
+3194	Wine Bars	Phoenix	3.92857142857
+3192	Wine Bars	Las Vegas	3.7875
+3191	Wine Bars	Charlotte	3.7125
+3193	Wine Bars	Madison	3.68181818182
+3195	Wine Bars	Pittsburgh	3.64705882353
+3190	Wine Bars	Champaign	3.5
+3196	Wine Tasting Room	Las Vegas	5.0
+3197	Wine Tasting Room	Madison	4.5
+3198	Wine Tours	Las Vegas	5.0
+3199	Wine Tours	Phoenix	5.0
+3203	Wineries	Phoenix	4.66666666667
+3202	Wineries	Madison	4.5
+3201	Wineries	Las Vegas	4.25
+3200	Wineries	Charlotte	4.0
+3204	Wineries	Pittsburgh	4.0
+3210	Women's Clothing	Pittsburgh	3.89534883721
+3207	Women's Clothing	Las Vegas	3.76330532213
+3208	Women's Clothing	Madison	3.72413793103
+3206	Women's Clothing	Charlotte	3.62903225806
+3209	Women's Clothing	Phoenix	3.58407079646
+3205	Women's Clothing	Champaign	3.16666666667
+3213	Yelp Events	Madison	5.0
+3211	Yelp Events	Charlotte	4.83333333333
+3212	Yelp Events	Las Vegas	4.75
+3214	Yelp Events	Phoenix	4.75
+3215	Yelp Events	Pittsburgh	4.4
+3217	Yoga	Las Vegas	4.63636363636
+3219	Yoga	Phoenix	4.5
+3220	Yoga	Pittsburgh	4.40476190476
+3216	Yoga	Charlotte	4.32692307692
+3218	Yoga	Madison	4.15
+3222	Zoos	Madison	4.0
+3223	Zoos	Phoenix	3.75
+3221	Zoos	Las Vegas	3.58333333333
